@@ -49,8 +49,8 @@ The grammar is a small static site in `grammaire/`, published as an artifact. Op
 | `01-sons.html` | Chapter 1: Sounds and spelling |
 | `02-noms.html` | Chapter 2: Nouns, articles, gender and number |
 | `03-pronoms.html` | Chapter 3: Pronouns |
-| `04-present.html` | Chapter 4: The present |
-| `05-passe-futur.html` | Chapter 5: Past, future and possibility |
+| `04-present.html` | Chapter 4: Verbs: the present |
+| `05-passe-futur.html` | Chapter 5: Verbs: past, future and possibility |
 | `06-negation.html` | Chapter 6: Negation |
 | `07-questions.html` | Chapter 7: Questions |
 | `08-forme.html` | Chapter 8: Sentence shape |
@@ -88,8 +88,8 @@ In the HTML source, a starred word is written as `{spoken*|written}`, for exampl
 | 1 | Sounds and spelling | Reading rules drafted |
 | 2 | Nouns, articles, gender and number | Drafted |
 | 3 | Pronouns | Drafted |
-| 4 | Verbs I: the present | Drafted |
-| 5 | Verbs II: past, future and possibility | Drafted |
+| 4 | Verbs: the present | Drafted |
+| 5 | Verbs: past, future and possibility | Drafted |
 | 6 | Negation | Drafted |
 | 7 | Questions | Drafted |
 | 8 | Sentence shape | Drafted |

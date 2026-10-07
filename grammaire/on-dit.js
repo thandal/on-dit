@@ -7,10 +7,10 @@
 var PAGES = [
   {id:'intro',  href:'index.html',          label:'Introduction'},
   {id:'ch1',    href:'01-sons.html',        label:'1. Sounds and spelling'},
-  {id:'ch2',    href:'02-noms.html',        label:'2. Nouns, articles, gender, number'},
+  {id:'ch2',    href:'02-noms.html',        label:'2. Nouns, articles, gender and number'},
   {id:'ch3',    href:'03-pronoms.html',     label:'3. Pronouns'},
-  {id:'ch4',    href:'04-present.html',     label:'4. The present'},
-  {id:'ch5',    href:'05-passe-futur.html', label:'5. Past, future, possibility'},
+  {id:'ch4',    href:'04-present.html',     label:'4. Verbs: the present'},
+  {id:'ch5',    href:'05-passe-futur.html', label:'5. Verbs: past, future and possibility'},
   {id:'ch6',    href:'06-negation.html',    label:'6. Negation'},
   {id:'ch7',    href:'07-questions.html',   label:'7. Questions'},
   {id:'ch8',    href:'08-forme.html',       label:'8. Sentence shape'},
