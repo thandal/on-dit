@@ -2,8 +2,6 @@
 
 *A grammar of spoken French.*
 
-*On dit* means "people say", which is the project's whole claim: it teaches what's said. It also starts with *on*, the spoken default for "we". The grammar is written in English because the explanations need a neutral language to describe how speech departs from the written standard; the name is French.
-
 A learner's grammar of contemporary spoken French, written from the sound up. It teaches what people actually say, not the written language read aloud.
 
 Few existing resources focus only on spoken French. The closest is Rodney Ball's *Colloquial French Grammar*; Blanche-Benveniste and Gadet cover it academically. None of them starts from sound, and that is where most of the simplification lies.
