@@ -9,6 +9,7 @@
   --accent:#2b56b0;      /* spoken French */
   --accent-soft:#e7edf9;
   --star:#b8620f;        /* respelling mark */
+  --no:#b42318;          /* a common mistake */
   --written:#7b5a86;     /* standard spelling */
   --written-soft:#f3edf5;
   --ok:#2f7a4d;
@@ -20,13 +21,13 @@
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
     --bg:#11141b; --surface:#181d27; --ink:#e4e8ef; --muted:#9aa3b4; --line:#2a3141;
-    --accent:#93b2ff; --accent-soft:#1d2741; --star:#e6a75a; --written:#d0a9dc; --written-soft:#2a2232; --ok:#7fcf9e;
+    --accent:#93b2ff; --accent-soft:#1d2741; --star:#e6a75a; --no:#ff8f85; --written:#d0a9dc; --written-soft:#2a2232; --ok:#7fcf9e;
     color-scheme:dark;
   }
 }
 :root[data-theme="dark"]{
   --bg:#11141b; --surface:#181d27; --ink:#e4e8ef; --muted:#9aa3b4; --line:#2a3141;
-  --accent:#93b2ff; --accent-soft:#1d2741; --star:#e6a75a; --written:#d0a9dc; --written-soft:#2a2232; --ok:#7fcf9e;
+  --accent:#93b2ff; --accent-soft:#1d2741; --star:#e6a75a; --no:#ff8f85; --written:#d0a9dc; --written-soft:#2a2232; --ok:#7fcf9e;
   color-scheme:dark;
 }
 *{box-sizing:border-box}
@@ -88,7 +89,7 @@ body.show-written ruby.r rt, ruby.r.open rt{font-size:.62em;opacity:1}
 .star{color:var(--star);font-weight:700;margin-left:.05em}
 .tie{color:var(--muted)}
 .wf{font-style:italic;color:var(--written)}
-.no{font-family:var(--say);font-weight:700;font-size:.97em;color:var(--star)}
+.no{font-family:var(--say);font-weight:700;font-size:.97em;color:var(--no)}
 .no::before{content:"✗ "}
 
 /* tables */
