@@ -58,6 +58,7 @@ The grammar is a small static site in `grammaire/`, published as an artifact. Op
 | `10-mots.html` | Chapter 10: Discourse words |
 | `11-quotidien.html` | Chapter 11: Everyday frames |
 | `annexe.html` | Appendix: Coming from written French (A0, A1, A2…) |
+| `listes.html` | Appendix: useful lists: être verbs, reflexive verbs, verbs + à / de / infinitive, subjunctive triggers, participles, adjectives before the noun, avoir and faire expressions |
 | `on-dit.css` | Shared styles |
 | `on-dit.js` | Shared script: contents and previous/next links, starred words, Written forms switch |
 
@@ -74,6 +75,7 @@ The grammar is a small static site in `grammaire/`, published as an artifact. Op
 3. Add the page to `PAGES` at the top of `on-dit.js`, in reading order. The contents rail and the previous/next links are built from that list.
 4. Link it from the outline in `index.html` and update its status there and in the table below.
 5. Add its appendix section to `annexe.html` (`id="aN"`), with a link back to the chapter.
+6. Put any reference list worth looking up (verbs that take a preposition, irregular forms…) in `listes.html`, and link the section and the list to each other.
 
 Numbered section headings take an id of the form `s4-1`; they and any `h2` with an id appear in the contents rail under the current page.
 

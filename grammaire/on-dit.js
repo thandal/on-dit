@@ -17,7 +17,8 @@ var PAGES = [
   {id:'ch9',    href:'09-relier.html',      label:'9. Joining ideas'},
   {id:'ch10',   href:'10-mots.html',        label:'10. Discourse words'},
   {id:'ch11',   href:'11-quotidien.html',   label:'11. Everyday frames'},
-  {id:'annexe', href:'annexe.html',         label:'Appendix: coming from written French'}
+  {id:'annexe', href:'annexe.html',         label:'Appendix: coming from written French'},
+  {id:'listes', href:'listes.html',         label:'Appendix: useful lists'}
 ];
 
 (function(){

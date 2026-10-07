@@ -15,4 +15,5 @@ The README covers the project's goals, notation, file layout and authoring synta
 - Keep prose about the grammar itself. No paragraphs explaining the project to itself (what the name means, why it's in English).
 - The site has no project status (what's drafted, what's planned). Status lives only in the README.
 - Assume no prior French. When a word or example's meaning matters to the point, say what it means, even for common words (nous = "we", pas = "not").
+- Cross-link generously. When prose mentions a concept taught elsewhere (a section, a list in `listes.html`, a reading rule), link it there, at least on its first mention in each section. Section numbers like (4.2) are always links.
 - Follow the notation rules in the README: respell as little as possible, star only what the reading rules can't predict, and show liaison only with ‿.
