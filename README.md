@@ -33,7 +33,7 @@ The goal is that every example can be read aloud correctly using a one-page set 
 Guidelines:
 
 - **Respell as little as possible.** Keep standard spelling wherever the reading rules work. This keeps stars rare, so each one signals a place where writing misleads (mostly *ils* verb endings and relaxed forms).
-- **Respell these relaxed forms:** *chui, chais, t'es, t'as, t'avais, y a, y avait, pasque*.
+- **Respell these relaxed forms:** *chui, chais, t'es, t'as, t'avais, y a, y avait, y en a, pasque*.
 - **Don't respell regular reductions.** These are covered by rules instead: dropping the light *e* (*j'veux*, *p'tit*) and *il/ils* sounding like "i" before a consonant.
 - **Use a fixed list of irregular words, always starred:** *fam\* (femme), messieu\* (monsieur), u\* (eu), pluss\* (plus, "more"), touss\* (tous), fiss\* (fils), segon\* (second)*.
 - **Show linking with the tie only, never by respelling.** Mark all obligatory liaisons plus a few very common optional ones.
@@ -46,16 +46,19 @@ The grammar is a small static site in `grammaire/`, published as an artifact. Op
 | --- | --- |
 | `index.html` | Title page: how this grammar works, and the outline |
 | `01-sons.html` | Chapter 1: Sounds and spelling |
-| `04-present.html` | Chapter 4: The present, with its exercises |
-| `05-passe-futur.html` | Chapter 5: Past, future and possibility, with its exercises |
-| `annexe.html` | Appendix: Coming from written French (A0, A1, A4, A5…) |
+| `02-noms.html` | Chapter 2: Nouns, articles, gender and number |
+| `03-pronoms.html` | Chapter 3: Pronouns |
+| `04-present.html` | Chapter 4: The present |
+| `05-passe-futur.html` | Chapter 5: Past, future and possibility |
+| `annexe.html` | Appendix: Coming from written French (A0, A1, A2…) |
 | `on-dit.css` | Shared styles |
 | `on-dit.js` | Shared script: contents and previous/next links, starred words, Written forms switch |
 
 - **Written forms switch** (top bar): shows or hides the standard spelling. When on, it appears above every starred word, and the "Written" columns appear in tables. The setting is remembered per browser, so it carries from page to page.
 - **Tap to reveal:** tapping a single starred word shows just its written form.
 - **Key examples** have three lines: what's said, what's written (shown only with the switch on), and what it means plus which form it is.
-- **Each chapter** ends with its exercises (answers in a collapsible block) and a link to its appendix section. Each appendix section links back to its chapter.
+- **Practice** sits at the end of the section it drills, folded away so the chapter reads straight through. Each item has an "answer" chip; tapping it shows the answer in place.
+- **Each chapter** ends with a link to its appendix section. Each appendix section links back to its chapter.
 
 ### Adding a chapter
 
@@ -69,15 +72,15 @@ Numbered section headings take an id of the form `s4-1`; they and any `h2` with 
 
 ### Authoring syntax
 
-In the HTML source, a starred word is written as `{spoken*|written}`, for example `ils {parte*|partent}`. `on-dit.js` turns each one into a `<ruby>` annotation. Write ties (`‿`) directly. Put French in running text in `<span class="fr">`, standard-spelling-only text in `<span class="wf">`, and spoken table cells in `<td class="say">`. Give written-only table columns `class="w"`.
+In the HTML source, a starred word is written as `{spoken*|written}`, for example `ils {parte*|partent}`. `on-dit.js` turns each one into a `<ruby>` annotation. Write ties (`‿`) directly. Put French in running text in `<span class="fr">`, standard-spelling-only text in `<span class="wf">`, and spoken table cells in `<td class="say">`. Give written-only table columns `class="w"`. Put a section's exercises in `<details class="practice"><summary>Practice: …</summary>…</details>` at the end of the section, and each answer at the end of its item in `<span class="a">…</span>`.
 
 ## Chapter plan and status
 
 | # | Chapter | Status |
 | --- | --- | --- |
 | 1 | Sounds and spelling | Reading rules drafted |
-| 2 | Nouns, articles, gender and number | Planned |
-| 3 | Pronouns | Planned |
+| 2 | Nouns, articles, gender and number | Drafted |
+| 3 | Pronouns | Drafted |
 | 4 | Verbs I: the present | Drafted |
 | 5 | Verbs II: past, future and possibility | Drafted |
 | 6 | Negation | Planned |
@@ -87,10 +90,11 @@ In the HTML source, a starred word is written as `{spoken*|written}`, for exampl
 | 10 | Discourse words | Planned |
 | 11 | Everyday frames | Planned |
 
-Chapters 4 and 5 each end with exercises and an answer key.
+Chapters 2 to 5 have practice and an appendix section.
 
 ## Next steps
 
 - Finish chapter 1 (linking and relaxed forms in more depth).
-- Draft chapters 2 and 3, which chapter 4 already refers to.
+- Chapter 1: add reading rules for ill after a consonant (fille, famille) and for -tion (attention). Chapters 2 and 3 avoid these words until then.
+- Draft chapter 6 (negation), which chapters 2 and 3 already refer to.
 - Add exercises and an appendix section for each new chapter.

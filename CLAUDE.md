@@ -13,4 +13,5 @@ The README covers the project's goals, notation, file layout and authoring synta
 ## Writing
 
 - Keep prose about the grammar itself. No paragraphs explaining the project to itself (what the name means, why it's in English).
+- The site has no project status (what's drafted, what's planned). Status lives only in the README.
 - Follow the notation rules in the README: respell as little as possible, star only what the reading rules can't predict, and show liaison only with ‿.

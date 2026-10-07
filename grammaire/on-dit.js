@@ -1,12 +1,14 @@
 /* On dit: shared script for every page.
    1. Builds the contents rail and the previous/next links from PAGES.
-   2. Turns {spoken*|written} tokens into <ruby> annotations.
+   2. Turns {spoken*|written} tokens into <ruby> annotations, and exercise answers into tap-to-show chips.
    3. Runs the Written forms switch (remembered per browser). */
 
 /* Reading order. To add a chapter, add its page here and to the outline in index.html. */
 var PAGES = [
   {id:'intro',  href:'index.html',          label:'Introduction'},
   {id:'ch1',    href:'01-sons.html',        label:'1. Sounds and spelling'},
+  {id:'ch2',    href:'02-noms.html',        label:'2. Nouns, articles, gender, number'},
+  {id:'ch3',    href:'03-pronoms.html',     label:'3. Pronouns'},
   {id:'ch4',    href:'04-present.html',     label:'4. The present'},
   {id:'ch5',    href:'05-passe-futur.html', label:'5. Past, future, possibility'},
   {id:'annexe', href:'annexe.html',         label:'Appendix: coming from written French'}
@@ -105,13 +107,27 @@ var PAGES = [
     n.parentNode.replaceChild(frag, n);
   });
 
+  // Exercise answers: <span class="a">…</span> shows as an "answer" chip until tapped.
+  root.querySelectorAll('.a').forEach(function(a){
+    var inner = document.createElement('span');
+    while (a.firstChild) inner.appendChild(a.firstChild);
+    a.appendChild(inner);
+    a.tabIndex = 0;
+    a.setAttribute('role','button');
+    a.setAttribute('aria-expanded','false');
+  });
+  function toggle(el){
+    if (el.matches('ruby.r')) el.classList.toggle('open');
+    else el.setAttribute('aria-expanded', el.getAttribute('aria-expanded') === 'true' ? 'false' : 'true');
+  }
+  // A starred word inside an open answer toggles itself, not the answer.
+  function target(e){ return e.target.closest && e.target.closest('ruby.r, .a'); }
   root.addEventListener('click', function(e){
-    var r = e.target.closest && e.target.closest('ruby.r');
-    if (r) r.classList.toggle('open');
+    var t = target(e); if (t) toggle(t);
   });
   root.addEventListener('keydown', function(e){
-    if ((e.key === 'Enter' || e.key === ' ') && e.target.matches && e.target.matches('ruby.r')){
-      e.preventDefault(); e.target.classList.toggle('open');
+    if ((e.key === 'Enter' || e.key === ' ') && e.target.matches && e.target.matches('ruby.r, .a')){
+      e.preventDefault(); toggle(e.target);
     }
   });
 
