@@ -11,6 +11,12 @@ var PAGES = [
   {id:'ch3',    href:'03-pronoms.html',     label:'3. Pronouns'},
   {id:'ch4',    href:'04-present.html',     label:'4. The present'},
   {id:'ch5',    href:'05-passe-futur.html', label:'5. Past, future, possibility'},
+  {id:'ch6',    href:'06-negation.html',    label:'6. Negation'},
+  {id:'ch7',    href:'07-questions.html',   label:'7. Questions'},
+  {id:'ch8',    href:'08-forme.html',       label:'8. Sentence shape'},
+  {id:'ch9',    href:'09-relier.html',      label:'9. Joining ideas'},
+  {id:'ch10',   href:'10-mots.html',        label:'10. Discourse words'},
+  {id:'ch11',   href:'11-quotidien.html',   label:'11. Everyday frames'},
   {id:'annexe', href:'annexe.html',         label:'Appendix: coming from written French'}
 ];
 

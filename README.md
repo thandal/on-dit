@@ -35,7 +35,8 @@ Guidelines:
 - **Respell as little as possible.** Keep standard spelling wherever the reading rules work. This keeps stars rare, so each one signals a place where writing misleads (mostly *ils* verb endings and relaxed forms).
 - **Respell these relaxed forms:** *chui, chais, t'es, t'as, t'avais, y a, y avait, y en a, pasque*.
 - **Don't respell regular reductions.** These are covered by rules instead: dropping the light *e* (*j'veux*, *p'tit*) and *il/ils* sounding like "i" before a consonant.
-- **Use a fixed list of irregular words, always starred:** *fam\* (femme), messieu\* (monsieur), u\* (eu), pluss\* (plus, "more"), touss\* (tous), fiss\* (fils), segon\* (second)*.
+- **Use a fixed list of irregular words, always starred:** *fam\* (femme), messieu\* (monsieur), u\* (eu), pluss\* (plus, "more"), touss\* (tous), fiss\* (fils), segon\* (second), ièr\* (hier), ivèr\* (hiver), vil\* (ville), mil\* (mille), tranquil\* (tranquille)*.
+- **Star numbers where they differ from the rules:** cinq and sept always (*sink\*, sète\**), six, huit and dix when said alone (*siss\*, uite\*, diss\**), soixante (*soissante\**), and vingt in 22–29 (*vinte-deux\**). See chapter 11.
 - **Show linking with the tie only, never by respelling.** Mark all obligatory liaisons plus a few very common optional ones.
 
 ## Presentation
@@ -50,6 +51,12 @@ The grammar is a small static site in `grammaire/`, published as an artifact. Op
 | `03-pronoms.html` | Chapter 3: Pronouns |
 | `04-present.html` | Chapter 4: The present |
 | `05-passe-futur.html` | Chapter 5: Past, future and possibility |
+| `06-negation.html` | Chapter 6: Negation |
+| `07-questions.html` | Chapter 7: Questions |
+| `08-forme.html` | Chapter 8: Sentence shape |
+| `09-relier.html` | Chapter 9: Joining ideas |
+| `10-mots.html` | Chapter 10: Discourse words |
+| `11-quotidien.html` | Chapter 11: Everyday frames |
 | `annexe.html` | Appendix: Coming from written French (A0, A1, A2…) |
 | `on-dit.css` | Shared styles |
 | `on-dit.js` | Shared script: contents and previous/next links, starred words, Written forms switch |
@@ -83,18 +90,17 @@ In the HTML source, a starred word is written as `{spoken*|written}`, for exampl
 | 3 | Pronouns | Drafted |
 | 4 | Verbs I: the present | Drafted |
 | 5 | Verbs II: past, future and possibility | Drafted |
-| 6 | Negation | Planned |
-| 7 | Questions | Planned |
-| 8 | Sentence shape | Planned |
-| 9 | Joining ideas | Planned |
-| 10 | Discourse words | Planned |
-| 11 | Everyday frames | Planned |
+| 6 | Negation | Drafted |
+| 7 | Questions | Drafted |
+| 8 | Sentence shape | Drafted |
+| 9 | Joining ideas | Drafted |
+| 10 | Discourse words | Drafted |
+| 11 | Everyday frames | Drafted |
 
-Chapters 2 to 5 have practice and an appendix section.
+Chapters 2 to 11 have practice and an appendix section. Chapter 1 has neither yet.
 
 ## Next steps
 
-- Finish chapter 1 (linking and relaxed forms in more depth).
-- Chapter 1: add reading rules for ill after a consonant (fille, famille) and for -tion (attention). Chapters 2 and 3 avoid these words until then.
-- Draft chapter 6 (negation), which chapters 2 and 3 already refer to.
-- Add exercises and an appendix section for each new chapter.
+- Chapter 1: cover linking and relaxed forms in more depth, and add practice.
+- Chapter 1: decide how to handle -er words read as èr (hiver, super) and -ied (pied). For now they're starred or avoided.
+- Review chapters 6 to 11 against the notation rules and with a native speaker.

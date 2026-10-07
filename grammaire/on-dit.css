@@ -97,6 +97,8 @@ table{border-collapse:collapse;width:100%;font-size:var(--s0)}
 th,td{padding:.55rem .75rem;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
 tr:last-child td{border-bottom:none}
 th{font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:700;background:var(--bg)}
+table.merge .m{background:var(--accent-soft)}
+table.merge thead tr:first-child th{text-align:center;border-bottom:1px solid var(--line)}
 td.say{font-family:var(--say);color:var(--accent);font-weight:700}
 .w{display:none}
 body.show-written .w{display:table-cell}
