@@ -1,5 +1,5 @@
 <!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
-<title>Spoken French Grammar</title>
+<title>On dit · A Grammar of Spoken French</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap">
 <style>
@@ -76,6 +76,7 @@ h4{font-size:var(--s1);margin:1.4rem 0 .3rem}
 .chap{display:block;font-family:var(--body);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:.3rem}
 p{margin:.6rem 0}
 .lead{font-size:var(--s2);line-height:1.45;color:var(--ink)}
+.subtitle{font-family:var(--display);font-size:var(--s2);color:var(--muted);margin:-.3rem 0 .6rem}
 .meta{color:var(--muted);font-size:var(--s-1)}
 ul,ol{padding-left:1.3rem}
 li{margin:.25rem 0}
@@ -133,7 +134,7 @@ section.appendix h2{border-top:3px double var(--line)}
 
 <header class="bar">
   <div class="bar-in">
-    <a class="brand" href="#top">A Grammar of Spoken French</a>
+    <a class="brand" href="#top" lang="fr">On dit</a>
     <button class="switch" id="wswitch" role="switch" aria-checked="false" type="button">
       <span class="knob" aria-hidden="true"></span>
       <span>Written forms <span class="state" id="wstate">hidden</span></span>
@@ -162,7 +163,8 @@ section.appendix h2{border-top:3px double var(--line)}
   </nav>
 
   <main id="top">
-    <h1>A Grammar of Spoken French</h1>
+    <h1 lang="fr">On dit</h1>
+    <p class="subtitle">A grammar of spoken French</p>
     <p class="meta">Contemporary France French · neutral informal register · draft of 7 October 2026</p>
 
     <details class="toc-mobile">
@@ -832,12 +834,12 @@ section.appendix h2{border-top:3px double var(--line)}
     if (!on) document.querySelectorAll('ruby.r.open').forEach(function(r){ r.classList.remove('open'); });
   }
   var saved = false;
-  try { saved = localStorage.getItem('sfg-written') === '1'; } catch(e){}
+  try { saved = localStorage.getItem('ondit-written') === '1'; } catch(e){}
   set(saved);
   btn.addEventListener('click', function(){
     var on = !document.body.classList.contains('show-written');
     set(on);
-    try { localStorage.setItem('sfg-written', on ? '1' : '0'); } catch(e){}
+    try { localStorage.setItem('ondit-written', on ? '1' : '0'); } catch(e){}
   });
 })();
 </script>
