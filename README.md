@@ -67,13 +67,6 @@ In the HTML source, a starred word is written as `{spoken*|written}`, for exampl
 
 Exercises with an answer key exist for chapters 4 and 5.
 
-## How we got here
-
-1. **First draft:** a shared doc using standard spelling, with italics marking relaxed forms. Rejected because it explained speech from the viewpoint of someone who already knows written French.
-2. **Second draft:** chapters rewritten to teach spoken forms directly, with written-French comparisons moved to an appendix.
-3. **Spoken spelling:** standard spelling alone couldn't tell a learner how to say *ils partent*. Replaced it with minimal phonetic respelling, stars and ties.
-4. **HTML page:** moved from the doc so the written forms can be shown or hidden on demand.
-
 ## Next steps
 
 - Finish chapter 1 (linking and relaxed forms in more depth).
