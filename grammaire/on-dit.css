@@ -1,0 +1,139 @@
+/* On dit: shared styles for every page.
+   Layout: sticky top bar with the written-forms switch; contents rail on the left (desktop), one reading column of ~68ch. Spoken French is the hero: it gets its own legible face and the accent ink. */
+:root{
+  --bg:#f5f6f8;
+  --surface:#ffffff;
+  --ink:#1c2230;
+  --muted:#5d6678;
+  --line:#dde1e8;
+  --accent:#2b56b0;      /* spoken French */
+  --accent-soft:#e7edf9;
+  --star:#b8620f;        /* respelling mark */
+  --written:#7b5a86;     /* standard spelling */
+  --written-soft:#f3edf5;
+  --ok:#2f7a4d;
+  --display:"Young Serif", Georgia, "Times New Roman", serif;
+  --body:"Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --say:"Atkinson Hyperlegible", "Verdana", system-ui, sans-serif;
+  --s-1:.875rem; --s0:1rem; --s1:1.125rem; --s2:1.375rem; --s3:1.75rem; --s4:2.4rem;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#11141b; --surface:#181d27; --ink:#e4e8ef; --muted:#9aa3b4; --line:#2a3141;
+    --accent:#93b2ff; --accent-soft:#1d2741; --star:#e6a75a; --written:#d0a9dc; --written-soft:#2a2232; --ok:#7fcf9e;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#11141b; --surface:#181d27; --ink:#e4e8ef; --muted:#9aa3b4; --line:#2a3141;
+  --accent:#93b2ff; --accent-soft:#1d2741; --star:#e6a75a; --written:#d0a9dc; --written-soft:#2a2232; --ok:#7fcf9e;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-padding-top:4.5rem}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:var(--s1);line-height:1.6;margin:0}
+a{color:var(--accent)}
+a:focus-visible,button:focus-visible,ruby:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px}
+
+/* top bar */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:10;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.bar-in{max-width:76rem;margin:0 auto;padding:.6rem 16px;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+.brand{font-family:var(--display);font-size:var(--s1);color:var(--ink);text-decoration:none;white-space:nowrap}
+.switch{display:inline-flex;align-items:center;gap:.6rem;background:none;border:1px solid var(--line);border-radius:999px;padding:.3rem .8rem .3rem .4rem;color:var(--ink);font:600 var(--s-1)/1 var(--body);cursor:pointer}
+.switch .knob{width:2.2rem;height:1.25rem;border-radius:999px;background:var(--line);position:relative;transition:background .15s}
+.switch .knob::after{content:"";position:absolute;top:.15rem;left:.15rem;width:.95rem;height:.95rem;border-radius:50%;background:var(--surface);transition:transform .15s}
+.switch[aria-checked="true"] .knob{background:var(--written)}
+.switch[aria-checked="true"] .knob::after{transform:translateX(.95rem)}
+.switch .state{color:var(--muted);font-weight:400}
+
+/* shell */
+.shell{max-width:76rem;margin:0 auto;padding-inline:16px;padding-block:2rem 5rem;display:grid;grid-template-columns:14rem minmax(0,1fr);gap:3rem}
+nav.toc{position:sticky;top:5rem;align-self:start;font-size:var(--s-1);max-height:calc(100vh - 6rem);overflow:auto}
+nav.toc p{margin:0 0 .4rem;text-transform:uppercase;letter-spacing:.08em;font-weight:700;color:var(--muted);font-size:.75rem}
+nav.toc ol{list-style:none;margin:0 0 1.2rem;padding:0;display:grid;gap:.15rem}
+nav.toc a{color:var(--ink);text-decoration:none;display:block;padding:.2rem .5rem;border-radius:4px}
+nav.toc a:hover{background:var(--accent-soft)}
+nav.toc .sub a{padding-left:1.2rem;color:var(--muted)}
+.toc-mobile{display:none}
+main{min-width:0;max-width:44rem}
+@media (max-width:900px){
+  .shell{grid-template-columns:minmax(0,1fr);gap:1rem}
+  nav.toc{display:none}
+  .toc-mobile{display:block;border:1px solid var(--line);border-radius:6px;background:var(--surface);padding:.5rem .8rem;font-size:var(--s-1);margin-bottom:1.5rem}
+  .toc-mobile summary{cursor:pointer;font-weight:600}
+  .toc-mobile ol{margin:.5rem 0 0;padding-left:1.2rem}
+}
+
+/* type */
+h1{font-family:var(--display);font-weight:400;font-size:var(--s4);line-height:1.1;margin:0 0 .6rem;text-wrap:balance}
+h2{font-family:var(--display);font-weight:400;font-size:var(--s3);line-height:1.2;margin:3.5rem 0 .6rem;text-wrap:balance;padding-top:1.5rem;border-top:1px solid var(--line)}
+h3{font-size:var(--s2);font-weight:700;margin:2rem 0 .4rem;text-wrap:balance}
+h4{font-size:var(--s1);margin:1.4rem 0 .3rem}
+.chap{display:block;font-family:var(--body);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:.3rem}
+p{margin:.6rem 0}
+.lead{font-size:var(--s2);line-height:1.45;color:var(--ink)}
+.subtitle{font-family:var(--display);font-size:var(--s2);color:var(--muted);margin:-.3rem 0 .6rem}
+.meta{color:var(--muted);font-size:var(--s-1)}
+ul,ol{padding-left:1.3rem}
+li{margin:.25rem 0}
+strong{font-weight:700}
+
+/* spoken French */
+.fr{font-family:var(--say);color:var(--accent);font-weight:700;font-size:.97em}
+.fr .gloss{font-weight:400}
+ruby.r{ruby-position:over;cursor:pointer;border-radius:3px}
+ruby.r:hover{background:var(--written-soft)}
+ruby.r rt{font-family:var(--body);font-style:italic;font-weight:400;color:var(--written);font-size:0;opacity:0;transition:opacity .15s;user-select:none}
+body.show-written ruby.r rt, ruby.r.open rt{font-size:.62em;opacity:1}
+.star{color:var(--star);font-weight:700;margin-left:.05em}
+.tie{color:var(--muted)}
+.wf{font-style:italic;color:var(--written)}
+
+/* tables */
+.tw{overflow-x:auto;margin:1rem 0;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:var(--s0)}
+th,td{padding:.55rem .75rem;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+tr:last-child td{border-bottom:none}
+th{font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:700;background:var(--bg)}
+td.say{font-family:var(--say);color:var(--accent);font-weight:700}
+.w{display:none}
+body.show-written .w{display:table-cell}
+td.w{color:var(--written);font-style:italic}
+th.w{color:var(--written)}
+
+/* examples: said / written / meaning */
+.ex{margin:1rem 0;padding:.7rem 1rem;border-left:3px solid var(--accent);background:var(--surface);border-radius:0 6px 6px 0}
+.ex p{margin:.1rem 0}
+.ex .s{font-family:var(--say);color:var(--accent);font-weight:700;font-size:var(--s1)}
+.ex .wr{display:none;color:var(--written);font-style:italic}
+body.show-written .ex .wr{display:block}
+.ex .g{color:var(--muted);font-size:var(--s-1)}
+.ex .g b{color:var(--ink);font-weight:600}
+
+.note{background:var(--accent-soft);border-radius:6px;padding:.8rem 1rem;margin:1rem 0;font-size:var(--s0)}
+.applink{margin-top:1.5rem;font-size:var(--s-1);color:var(--muted)}
+.pill{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.04em;padding:.1rem .5rem;border-radius:999px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.pill.done{color:var(--ok);border-color:currentColor}
+.pill.wip{color:var(--star);border-color:currentColor}
+details.answers{margin-top:1.5rem;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+details.answers summary{cursor:pointer;padding:.7rem 1rem;font-weight:700}
+details.answers > div{padding:0 1rem 1rem}
+.marks{display:grid;grid-template-columns:repeat(auto-fit,minmax(12rem,1fr));gap:.8rem;margin:1rem 0}
+.mark{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:.8rem 1rem}
+.mark .sym{font-family:var(--say);font-size:var(--s3);line-height:1;color:var(--star);font-weight:700}
+.mark .sym.t{color:var(--muted)}
+.mark .sym.p{color:var(--accent)}
+.mark p{margin:.4rem 0 0;font-size:var(--s0)}
+section.appendix h2{border-top:3px double var(--line)}
+section.appendix h1 + h2{border-top:none;margin-top:1.5rem;padding-top:0}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+
+/* page footer: previous / next */
+.pager{display:flex;justify-content:space-between;gap:1rem;margin-top:4rem;padding-top:1.2rem;border-top:1px solid var(--line);font-size:var(--s-1)}
+.pager a{text-decoration:none;max-width:48%}
+.pager .next{margin-left:auto;text-align:right}
+.pager small{display:block;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-size:.7rem}
+nav.toc .here > a{font-weight:700;background:var(--accent-soft)}
+nav.toc .onpage{margin:.15rem 0 .4rem}
+nav.toc .onpage a{padding-left:1.2rem;color:var(--muted)}
+.toc-mobile .onpage{font-size:.95em}

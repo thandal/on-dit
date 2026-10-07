@@ -42,16 +42,36 @@ Guidelines:
 
 ## Presentation
 
-The grammar is a single self-contained HTML page (`on-dit-grammaire.html`), published as an artifact.
+The grammar is a small static site in `grammaire/`, published as an artifact. Open `grammaire/index.html` in a browser to read it locally.
 
-- **Written forms switch** (top bar): shows or hides the standard spelling. When on, it appears above every starred word, and the "Written" columns appear in tables. The setting is remembered per browser.
+| File | Contents |
+| --- | --- |
+| `index.html` | Title page: how this grammar works, and the outline |
+| `01-sons.html` | Chapter 1: Sounds and spelling |
+| `04-present.html` | Chapter 4: The present, with its exercises |
+| `05-passe-futur.html` | Chapter 5: Past, future and possibility, with its exercises |
+| `annexe.html` | Appendix: Coming from written French (A0, A1, A4, A5…) |
+| `on-dit.css` | Shared styles |
+| `on-dit.js` | Shared script: contents and previous/next links, starred words, Written forms switch |
+
+- **Written forms switch** (top bar): shows or hides the standard spelling. When on, it appears above every starred word, and the "Written" columns appear in tables. The setting is remembered per browser, so it carries from page to page.
 - **Tap to reveal:** tapping a single starred word shows just its written form.
 - **Key examples** have three lines: what's said, what's written (shown only with the switch on), and what it means plus which form it is.
-- **Appendix: Coming from written French** has one section per chapter (A0 general, A1 the spoken spelling, A4, A5…). Each chapter ends with a link to its section.
+- **Each chapter** ends with its exercises (answers in a collapsible block) and a link to its appendix section. Each appendix section links back to its chapter.
+
+### Adding a chapter
+
+1. Copy an existing chapter page and name it `NN-slug.html`, with a short French slug (`02-noms.html`, `03-pronoms.html`).
+2. Set `data-page` on `<body>` and the `<title>`.
+3. Add the page to `PAGES` at the top of `on-dit.js`, in reading order. The contents rail and the previous/next links are built from that list.
+4. Link it from the outline in `index.html` and update its status there and in the table below.
+5. Add its appendix section to `annexe.html` (`id="aN"`), with a link back to the chapter.
+
+Numbered section headings take an id of the form `s4-1`; they and any `h2` with an id appear in the contents rail under the current page.
 
 ### Authoring syntax
 
-In the HTML source, a starred word is written as `{spoken*|written}`, for example `ils {parte*|partent}`. A small script turns each one into a `<ruby>` annotation. Write ties (`‿`) directly. Put French in running text in `<span class="fr">`, standard-spelling-only text in `<span class="wf">`, and spoken table cells in `<td class="say">`. Give written-only table columns `class="w"`.
+In the HTML source, a starred word is written as `{spoken*|written}`, for example `ils {parte*|partent}`. `on-dit.js` turns each one into a `<ruby>` annotation. Write ties (`‿`) directly. Put French in running text in `<span class="fr">`, standard-spelling-only text in `<span class="wf">`, and spoken table cells in `<td class="say">`. Give written-only table columns `class="w"`.
 
 ## Chapter plan and status
 
@@ -69,11 +89,10 @@ In the HTML source, a starred word is written as `{spoken*|written}`, for exampl
 | 10 | Discourse words | Planned |
 | 11 | Everyday frames | Planned |
 
-Exercises with an answer key exist for chapters 4 and 5.
+Chapters 4 and 5 each end with exercises and an answer key.
 
 ## Next steps
 
 - Finish chapter 1 (linking and relaxed forms in more depth).
 - Draft chapters 2 and 3, which chapter 4 already refers to.
 - Add exercises and an appendix section for each new chapter.
-- Split the page into one file per chapter (plus the appendix) before it grows much larger.
