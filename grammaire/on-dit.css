@@ -100,6 +100,7 @@ tr:last-child td{border-bottom:none}
 th{font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:700;background:var(--bg)}
 table.merge .m{background:var(--accent-soft)}
 table.merge thead tr:first-child th{text-align:center;border-bottom:1px solid var(--line)}
+mark{background:var(--accent-soft);color:inherit;border-radius:3px;padding:0 .2em}
 td.say{font-family:var(--say);color:var(--accent);font-weight:700}
 .w{display:none}
 body.show-written .w{display:table-cell}
