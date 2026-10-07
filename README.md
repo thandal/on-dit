@@ -1,4 +1,8 @@
-# A Grammar of Spoken French
+# On dit
+
+*A grammar of spoken French.*
+
+*On dit* means "people say", which is the project's whole claim: it teaches what's said. It also starts with *on*, the spoken default for "we". The grammar is written in English because the explanations need a neutral language to describe how speech departs from the written standard; the name is French.
 
 A learner's grammar of contemporary spoken French, written from the sound up. It teaches what people actually say, not the written language read aloud.
 
@@ -38,7 +42,7 @@ Guidelines:
 
 ## Presentation
 
-The grammar is a single self-contained HTML page (`spoken-french.html`), published as an artifact.
+The grammar is a single self-contained HTML page (`on-dit-grammaire.html`), published as an artifact.
 
 - **Written forms switch** (top bar): shows or hides the standard spelling. When on, it appears above every starred word, and the "Written" columns appear in tables. The setting is remembered per browser.
 - **Tap to reveal:** tapping a single starred word shows just its written form.
@@ -72,3 +76,4 @@ Exercises with an answer key exist for chapters 4 and 5.
 - Finish chapter 1 (linking and relaxed forms in more depth).
 - Draft chapters 2 and 3, which chapter 4 already refers to.
 - Add exercises and an appendix section for each new chapter.
+- Split the page into one file per chapter (plus the appendix) before it grows much larger.
