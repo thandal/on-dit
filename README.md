@@ -36,8 +36,8 @@ Guidelines:
 
 - **One spelling per sound.** When standard spelling writes one sound several ways, write it one way:
   - **Verbs:** spell the shared form as the reading rules say it, with no silent letters: *peu* (peux, peut), *veu*, *fè* (fais, fait), *sè*, *di*, *par* (pars, part), *pren*, *è* (es, est: *c'è*, *il è*), *parlè* (parlais, parlait, parlaient), *voudrè* (voudrais, voudrait). Where one standard spelling already reads right with no silent letters, use it for every person: *parle* (parle, parles, parlent), *fini*, *va*, *a*.
-  - **Nouns and adjectives:** use the singular, and the masculine when the feminine sounds the same: *les livre*, *elle est fatigué*, *des voiture rouge*.
-  - **Pronouns and articles keep their spelling:** *ils parle*, *les livre*.
+  - **Nouns, adjectives, participles and the determiners quel, leur and tout:** use the singular, and the masculine when the feminine sounds the same: *les livre*, *elle è fatigué*, *des voiture rouge*, *quel heure*. Only when they really sound the same: *petite*, *des journaux* stay. Don't merge different words or stem alternants (*beau / bel / belle*).
+  - **Pronouns and articles keep their spelling:** *ils parle*, *les livre*, *celles*, *les miens*.
   - **In a table cell that covers several persons,** write the bare form with no pronoun (*voi* under "je, tu, il, on, ils"); tapping it lists each person's standard spelling. A cell for one person keeps its pronoun, so linking stays visible (*ils‿écrive*, *vous‿avez*). Don't make a cell orange when every person it covers has the same standard spelling (*a* for il, elle, on).
   - **Where linking makes an ending heard, it isn't silent:** *les petits‿enfants* keeps its s.
 - **Respell where the rules can't predict the sound:** long stems (*ils parte*, *ils vienne*), relaxed forms, irregular words and some numbers, below.
@@ -117,5 +117,4 @@ Chapters 2 to 13 have practice and an appendix section. Chapter 1 has neither ye
 
 - Chapter 1: cover linking and relaxed forms in more depth, and add practice.
 - Chapter 1: decide how to handle -er words read as èr (hiver, super) and -ied (pied). For now they're respelled or avoided.
-- Convert the rest of the grammar to one spelling per sound. Chapter 4 is converted; chapters 1–3 and 5–13, the lists and the appendix still use standard spelling for verb forms, plurals and feminines.
-- Review chapters 6 to 13, and sections 2.9, 3.8–3.11 and 4.6, against the notation rules and with a native speaker.
+- Review the whole grammar with a native speaker, who should know the one-spelling-per-sound notation is deliberate. Chapters 6 to 13 and sections 2.9, 3.8–3.11 and 4.6 haven't had any review yet.
