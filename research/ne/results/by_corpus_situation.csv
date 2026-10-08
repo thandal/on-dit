@@ -1,0 +1,44 @@
+group,negations,ne_written,pct
+tufs / conversation / face_à_face,10750,517,4.8
+cfpp / entretien / face_à_face,7748,1144,14.8
+decoda / - / -,4807,1063,22.1
+crfp / entretien / face_à_face,3582,695,19.4
+reunions-de-travail / réunion / face_à_face,2463,278,11.3
+tcof / conversation / face_à_face,2216,93,4.2
+tcof / entretien / face_à_face,2102,247,11.8
+clapi / - / -,1797,147,8.2
+frenchoralnarrative / narration / en_public,1268,825,65.1
+tcof / réunion / face_à_face,921,120,13.0
+coralrom / conversation / face_à_face,655,35,5.3
+coralrom / entretien / face_à_face,562,132,23.5
+tufs / entretien / face_à_face,477,37,7.8
+fleuron / conversation / face_à_face,338,113,33.4
+clapi / repas / face_à_face,329,5,1.5
+coralrom / médias oraux / tv,317,146,46.1
+coralrom / conversation / téléphone,303,27,8.9
+crfp / narration / face_à_face,285,76,26.7
+tufs / repas / face_à_face,260,13,5.0
+coralrom / médias oraux / radio,183,78,42.6
+coralrom / discours / en_public,159,116,73.0
+coralrom / cours / face_à_face,144,92,63.9
+crfp / cours / face_à_face,138,70,50.7
+crfp / médias oraux / radio,126,79,62.7
+crfp / réunion / face_à_face,122,33,27.0
+reunions-de-travail / conversation / face_à_face,100,9,9.0
+coralrom / narration / face_à_face,97,6,6.2
+crfp / explication / face_à_face,69,23,33.3
+coralrom / présentation publique / face_à_face,67,22,32.8
+tcof / consultation / face_à_face,63,6,9.5
+tufs / consultation / face_à_face,63,5,7.9
+coralrom / - / -,59,20,33.9
+coralrom / conversation / en_public,54,9,16.7
+coralrom / explication / face_à_face,52,39,75.0
+crfp / conversation / face_à_face,52,6,11.5
+coralrom / discours / face_à_face,44,39,88.6
+tcof / conversation / en_public,33,9,27.3
+fleuron / présentation publique / en_public,31,11,35.5
+coralrom / transaction / face_à_face,30,3,10.0
+crfp / médias oraux / tv,29,21,72.4
+tcof / présentation publique / en_public,21,6,28.6
+tcof / narration / face_à_face,20,6,30.0
+tcof / entretien / téléphone,20,1,5.0

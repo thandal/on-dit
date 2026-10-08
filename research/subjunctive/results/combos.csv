@@ -1,0 +1,320 @@
+trigger,verb,subjunctive_tokens,pct_of_all_subjunctives
+falloir que,être,192,9.8
+falloir que,faire,185,9.4
+falloir que,aller,145,7.4
+falloir que,avoir,120,6.1
+pour que,pouvoir,96,4.9
+pour que,être,69,3.5
+falloir que,prendre,42,2.1
+pour que,avoir,42,2.1
+falloir que,mettre,36,1.8
+falloir que,dire,31,1.6
+vouloir que,être,30,1.5
+falloir que,pouvoir,29,1.5
+falloir que,savoir,26,1.3
+pour que,faire,21,1.1
+avant que,être,18,0.9
+falloir que,attendre,17,0.9
+vouloir que,avoir,17,0.9
+falloir que,partir,16,0.8
+falloir que,venir,15,0.8
+vouloir que,dire,15,0.8
+pour que,aller,15,0.8
+falloir que,refaire,13,0.7
+falloir que,sortir,13,0.7
+vouloir que,aller,12,0.6
+vouloir que,faire,12,0.6
+avant que,avoir,12,0.6
+sans que,avoir,11,0.6
+pour que,savoir,11,0.6
+falloir que,réfléchir,10,0.5
+à moins que,avoir,10,0.5
+falloir que,descendre,10,0.5
+aimer que,être,9,0.5
+attendre que,avoir,9,0.5
+vouloir que,mettre,9,0.5
+c'est bien que,être,8,0.4
+avoir peur que,être,8,0.4
+à ce que,avoir,8,0.4
+falloir que,rendre,8,0.4
+avant que,partir,7,0.4
+sans que,être,7,0.4
+falloir que,revenir,7,0.4
+attendre que,être,7,0.4
+c'est normal que,être,7,0.4
+c'est bien que,avoir,7,0.4
+falloir que,servir,7,0.4
+jusqu'à ce que,avoir,7,0.4
+pour que,comprendre,7,0.4
+pour que,venir,7,0.4
+falloir que,reprendre,7,0.4
+faire en sorte que,être,7,0.4
+attendre que,dire,6,0.3
+c'est dommage que,avoir,6,0.3
+vouloir que,prendre,6,0.3
+il suffit que,avoir,6,0.3
+vouloir que,venir,6,0.3
+c'est dommage que,être,6,0.3
+il vaut mieux que,être,6,0.3
+attendre que,faire,6,0.3
+à ce que,pouvoir,6,0.3
+il se peut que,être,6,0.3
+falloir que,finir,6,0.3
+sans que,savoir,5,0.3
+avoir peur que,faire,5,0.3
+falloir que,remettre,5,0.3
+aimer que,faire,5,0.3
+falloir que,apprendre,5,0.3
+il est important que,être,5,0.3
+falloir que,connaître,5,0.3
+falloir que,écrire,5,0.3
+à ce que,être,5,0.3
+ça m'étonnerait que,être,5,0.3
+après que,être,5,0.3
+il est possible que,avoir,5,0.3
+pour que,devenir,5,0.3
+vouloir que,sortir,4,0.2
+préférer que,être,4,0.2
+après que,avoir,4,0.2
+aimer que,avoir,4,0.2
+falloir que,lire,4,0.2
+c'est bien que,aller,4,0.2
+avant que,aller,4,0.2
+en attendant que,faire,4,0.2
+pour que,descendre,4,0.2
+à moins que,être,4,0.2
+il est possible que,être,4,0.2
+faire en sorte que,avoir,4,0.2
+pour que,mettre,4,0.2
+avant que,intervenir,4,0.2
+falloir que,rappeler,4,0.2
+c'est normal que,avoir,4,0.2
+il se peut que,avoir,4,0.2
+il vaut mieux que,avoir,4,0.2
+falloir que,inscrire,4,0.2
+sans que,apercevoir,3,0.2
+il suffit que,mettre,3,0.2
+pour que,entendre,3,0.2
+attendre que,revenir,3,0.2
+pour que,sentir,3,0.2
+vouloir que,tenir,3,0.2
+falloir que,définir,3,0.2
+pour que,sortir,3,0.2
+avant que,revenir,3,0.2
+falloir que,répondre,3,0.2
+souhaiter que,être,3,0.2
+pour que,rendre,3,0.2
+pour que,correspondre,3,0.2
+falloir que,sentir,3,0.2
+pour que,remettre,3,0.2
+falloir que,suivre,3,0.2
+falloir que,fournir,3,0.2
+falloir que,donner,3,0.2
+vouloir que,savoir,3,0.2
+falloir que,nourrir,3,0.2
+falloir que,tenir,3,0.2
+avoir peur que,avoir,3,0.2
+sans que,faire,3,0.2
+à moins que,faire,3,0.2
+avant que,prendre,2,0.1
+pour que,dire,2,0.1
+être content que,être,2,0.1
+aimer que,aller,2,0.1
+pour que,partir,2,0.1
+être content que,avoir,2,0.1
+jusqu'à ce que,devenir,2,0.1
+bien que,avoir,2,0.1
+sans que,dire,2,0.1
+pour que,repartir,2,0.1
+souhaiter que,avoir,2,0.1
+vouloir que,entendre,2,0.1
+il suffit que,dire,2,0.1
+falloir que,retenir,2,0.1
+falloir que,ressortir,2,0.1
+falloir que,souvenir,2,0.1
+être content que,dire,2,0.1
+falloir que,intervenir,2,0.1
+falloir que,perdre,2,0.1
+à condition que,être,2,0.1
+jusqu'à ce que,être,2,0.1
+falloir que,choisir,2,0.1
+falloir que,plaire,2,0.1
+il est important que,avoir,2,0.1
+avant que,venir,2,0.1
+après que,faire,2,0.1
+bien que,être,2,0.1
+faire en sorte que,devenir,2,0.1
+falloir que,boire,2,0.1
+à moins que,pouvoir,2,0.1
+falloir que,remplir,2,0.1
+il vaut mieux que,prendre,2,0.1
+pour que,refaire,2,0.1
+falloir que,arriver,2,0.1
+il vaut mieux que,aller,2,0.1
+avant que,recevoir,2,0.1
+falloir que,passer,2,0.1
+vouloir que,pouvoir,2,0.1
+avant que,finir,2,0.1
+sans que,rendre,2,0.1
+vouloir que,vendre,2,0.1
+jusqu'à ce que,aller,2,0.1
+pour que,reprendre,2,0.1
+falloir que,comprendre,2,0.1
+il suffit que,aller,2,0.1
+vouloir que,écrire,2,0.1
+avant que,sortir,2,0.1
+c'est bien que,partir,2,0.1
+falloir que,réussir,2,0.1
+avoir peur que,dire,2,0.1
+falloir que,dormir,2,0.1
+avant que,pleuvoir,2,0.1
+jusqu'à ce que,faire,1,0.1
+attendre que,finir,1,0.1
+avoir peur que,aller,1,0.1
+il suffit que,faire,1,0.1
+il est important que,vivre,1,0.1
+préférer que,aller,1,0.1
+être content que,pouvoir,1,0.1
+pour que,rejoindre,1,0.1
+aimer que,raconter,1,0.1
+falloir que,vouloir,1,0.1
+sans que,attendre,1,0.1
+c'est bien que,rappelliez,1,0.1
+souhaiter que,faire,1,0.1
+il vaut mieux que,descendre,1,0.1
+il est possible que,repartir,1,0.1
+vouloir que,descendre,1,0.1
+jusqu'à ce que,comprendre,1,0.1
+pour que,perdre,1,0.1
+à ce que,revenir,1,0.1
+préférer que,avertir,1,0.1
+falloir que,vivre,1,0.1
+vouloir que,boire,1,0.1
+aimer que,prendre,1,0.1
+pour que,prendre,1,0.1
+pour que,atteindre,1,0.1
+aimer que,disparaître,1,0.1
+sans que,comprendre,1,0.1
+vouloir que,revenir,1,0.1
+vouloir que,finir,1,0.1
+avant que,retirer,1,0.1
+sans que,vouloir,1,0.1
+vouloir que,remarquer,1,0.1
+afin que,boire,1,0.1
+pour que,produire,1,0.1
+vouloir que,répéter,1,0.1
+faire en sorte que,suivre,1,0.1
+après que,prendre,1,0.1
+il suffit que,partir,1,0.1
+il vaut mieux que,continuer,1,0.1
+pour que,réussir,1,0.1
+pour que,obtenir,1,0.1
+aimer que,choisir,1,0.1
+falloir que,pleuvoir,1,0.1
+attendre que,remplir,1,0.1
+préférer que,partir,1,0.1
+jusqu'à ce que,dire,1,0.1
+pour que,tenir,1,0.1
+être content que,venir,1,0.1
+à condition que,avoir,1,0.1
+il suffit que,savoir,1,0.1
+falloir que,rentrer,1,0.1
+faire en sorte que,pouvoir,1,0.1
+falloir que,convaincre,1,0.1
+falloir que,relire,1,0.1
+à ce que,venir,1,0.1
+pour que,relire,1,0.1
+pour que,diminuer,1,0.1
+pourvu que,tenir,1,0.1
+souhaiter que,insister,1,0.1
+il est possible que,apprendre,1,0.1
+falloir que,remonter,1,0.1
+attendre que,souvenir,1,0.1
+c'est normal que,sortir,1,0.1
+il est possible que,appeler,1,0.1
+à moins que,prendre,1,0.1
+avant que,comprendre,1,0.1
+préférer que,dire,1,0.1
+il est possible que,aller,1,0.1
+c'est normal que,faire,1,0.1
+il vaut mieux que,savoir,1,0.1
+avant que,perdre,1,0.1
+falloir que,renseigner,1,0.1
+vouloir que,donner,1,0.1
+falloir que,retourner,1,0.1
+jusqu'à ce que,revenir,1,0.1
+c'est normal que,trouver,1,0.1
+vouloir que,regarder,1,0.1
+il vaut mieux que,faire,1,0.1
+falloir que,présenter,1,0.1
+il est possible que,refaire,1,0.1
+pour que,remonter,1,0.1
+aimer que,indiquer,1,0.1
+attendre que,prendre,1,0.1
+à condition que,pouvoir,1,0.1
+à moins que,réussir,1,0.1
+pour que,souvenir,1,0.1
+aimer que,donner,1,0.1
+falloir que,promettre,1,0.1
+vouloir que,rendre,1,0.1
+vouloir que,devenir,1,0.1
+il suffit que,introduire,1,0.1
+pour que,servir,1,0.1
+falloir que,ralentir,1,0.1
+falloir que,imaginer,1,0.1
+attendre que,permettre,1,0.1
+afin que,pouvoir,1,0.1
+vouloir que,servir,1,0.1
+jusqu'à ce que,venir,1,0.1
+falloir que,joindre,1,0.1
+falloir que,créer,1,0.1
+ça m'étonnerait que,aller,1,0.1
+il est possible que,pouvoir,1,0.1
+il est important que,pouvoir,1,0.1
+attendre que,mettre,1,0.1
+vouloir que,remplir,1,0.1
+avant que,reprendre,1,0.1
+il suffit que,être,1,0.1
+c'est normal que,pleuvoir,1,0.1
+aimer que,répondre,1,0.1
+c'est normal que,mettre,1,0.1
+c'est bien que,venir,1,0.1
+être content que,pleuvoir,1,0.1
+attendre que,répondre,1,0.1
+vouloir que,décrire,1,0.1
+aimer que,venir,1,0.1
+falloir que,prévenir,1,0.1
+vouloir que,ressortir,1,0.1
+attendre que,aller,1,0.1
+falloir que,investir,1,0.1
+falloir que,battre,1,0.1
+falloir que,réagir,1,0.1
+pour que,apprendre,1,0.1
+falloir que,rejoindre,1,0.1
+douter que,venir,1,0.1
+jusqu'à ce que,endormir,1,0.1
+avant que,mettre,1,0.1
+il est possible que,connaître,1,0.1
+vouloir que,attendre,1,0.1
+jusqu'à ce que,partir,1,0.1
+aimer que,pouvoir,1,0.1
+c'est dommage que,perdre,1,0.1
+il est important que,faire,1,0.1
+vouloir que,comprendre,1,0.1
+être content que,faire,1,0.1
+vouloir que,traduire,1,0.1
+pour que,revenir,1,0.1
+c'est bien que,pouvoir,1,0.1
+c'est dommage que,devoir,1,0.1
+il suffit que,venir,1,0.1
+ça m'étonnerait que,faire,1,0.1
+avant que,pouvoir,1,0.1
+c'est dommage que,pouvoir,1,0.1
+pour que,écrire,1,0.1
+il vaut mieux que,mettre,1,0.1
+falloir que,entendre,1,0.1
+c'est dommage que,connaître,1,0.1
+après que,servir,1,0.1
+vouloir que,inscrire,1,0.1
+aimer que,partir,1,0.1
+préférer que,avoir,1,0.1

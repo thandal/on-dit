@@ -1,0 +1,175 @@
+context,standard,participle,written_fem,written_masc
+elle(s) + être,f,fait,26,0
+elle(s) + être,f,mort,23,1
+elle(s) + être,f,mis,10,2
+elle(s) + être,f,pris,12,0
+elle(s) + être,f,ouvert,11,0
+elle(s) + être,f,assis,7,0
+elle(s) + être,f,reconduit,5,1
+elle(s) + être,f,cuit,5,0
+elle(s) + être,f,détruit,4,0
+elle(s) + être,f,satisfait,3,0
+elle(s) + être,f,refait,3,0
+elle(s) + être,f,construit,3,0
+elle(s) + être,f,produit,2,0
+elle(s) + être,f,peint,2,0
+elle(s) + être,f,repris,2,0
+elle(s) + être,f,offert,0,1
+elle(s) + être,f,découvert,1,0
+elle(s) + être,f,écrit,1,0
+elle(s) + être,f,conduit,1,0
+elle(s) + être,f,surpris,1,0
+elle(s) + être,f,remis,0,1
+elle(s) + être,f,inscrit,1,0
+elle(s) + être,f,recouvert,1,0
+elle(s) + être,f,interdit,1,0
+elle(s) + être,f,transmis,1,0
+feminine noun + être,f,fait,18,0
+feminine noun + être,f,ouvert,12,2
+feminine noun + être,f,mort,11,1
+feminine noun + être,f,reconduit,8,1
+feminine noun + être,f,mis,6,1
+feminine noun + être,f,pris,7,0
+feminine noun + être,f,interdit,6,0
+feminine noun + être,f,détruit,3,0
+feminine noun + être,f,repris,1,1
+feminine noun + être,f,reconstruit,2,0
+feminine noun + être,f,écrit,2,0
+feminine noun + être,f,construit,2,0
+feminine noun + être,f,cuit,2,0
+feminine noun + être,f,compris,1,0
+feminine noun + être,f,offert,1,0
+feminine noun + être,f,refait,1,0
+feminine noun + être,f,remis,0,1
+feminine noun + être,f,réduit,1,0
+feminine noun + être,f,dit,1,0
+feminine noun + être,f,transmis,1,0
+"elle(s) + se + être, se the object",f,mis,12,5
+"elle(s) + se + être, se the object",f,fait,2,1
+"elle(s) + se + être, se the object",f,inscrit,2,0
+"elle(s) + se + être, se the object",f,assis,2,0
+"elle(s) + se + être, se the object",f,rouvert,1,0
+"elle(s) + se + être, se the object",f,recouvert,1,0
+"elle(s) + se + être, se the object",f,rassis,0,1
+"elle(s) + se + être, se the object",f,pris,1,0
+"elle(s) + se + être, se the object",f,réduit,1,0
+"elle(s) + se + être, se the object",f,ouvert,1,0
+feminine noun + que + avoir,f,fait,16,31
+feminine noun + que + avoir,f,pris,7,7
+feminine noun + que + avoir,f,mis,1,8
+feminine noun + que + avoir,f,appris,1,3
+feminine noun + que + avoir,f,découvert,1,2
+feminine noun + que + avoir,f,compris,0,2
+feminine noun + que + avoir,f,couvert,1,0
+feminine noun + que + avoir,f,écrit,1,0
+feminine noun + que + avoir,f,prescrit,1,0
+l' / les (feminine) + avoir,f,fait,16,12
+l' / les (feminine) + avoir,f,mis,9,4
+l' / les (feminine) + avoir,f,pris,6,3
+l' / les (feminine) + avoir,f,repris,0,2
+l' / les (feminine) + avoir,f,éteint,0,1
+l' / les (feminine) + avoir,f,rouvert,1,0
+l' / les (feminine) + avoir,f,découvert,1,0
+l' / les (feminine) + avoir,f,conduit,1,0
+l' / les (feminine) + avoir,f,transmis,1,0
+l' / les (feminine) + avoir,f,réduit,0,1
+l' / les (feminine) + avoir,f,offert,0,1
+l' / les (feminine) + avoir,f,repeint,0,1
+control: avoir + participle + object,m,fait,0,1009
+control: avoir + participle + object,m,pris,0,456
+control: avoir + participle + object,m,mis,0,195
+control: avoir + participle + object,m,dit,0,126
+control: avoir + participle + object,m,appris,0,48
+control: avoir + participle + object,m,repris,0,40
+control: avoir + participle + object,m,ouvert,0,36
+control: avoir + participle + object,m,compris,0,33
+control: avoir + participle + object,m,découvert,0,23
+control: avoir + participle + object,m,refait,0,20
+control: avoir + participle + object,m,remis,0,19
+control: avoir + participle + object,m,écrit,0,18
+control: avoir + participle + object,m,construit,0,12
+control: avoir + participle + object,m,offert,0,9
+control: avoir + participle + object,m,peint,0,5
+control: avoir + participle + object,m,acquis,0,4
+control: avoir + participle + object,m,rejoint,0,4
+control: avoir + participle + object,m,cuit,0,4
+control: avoir + participle + object,m,transmis,0,4
+control: avoir + participle + object,m,recouvert,0,3
+control: avoir + participle + object,m,défait,0,3
+control: avoir + participle + object,m,commis,0,2
+control: avoir + participle + object,m,éteint,0,2
+control: avoir + participle + object,m,détruit,0,2
+control: avoir + participle + object,m,repeint,0,2
+control: avoir + participle + object,m,interdit,0,2
+control: avoir + participle + object,m,traduit,0,2
+control: avoir + participle + object,m,souscrit,0,2
+control: avoir + participle + object,m,atteint,0,1
+control: avoir + participle + object,m,promis,0,1
+control: avoir + participle + object,m,conduit,0,1
+control: avoir + participle + object,m,réduit,0,1
+control: avoir + participle + object,m,introduit,0,1
+control: avoir + participle + object,m,redécouvert,0,1
+control: avoir + participle + object,m,réécrit,0,1
+control: avoir + participle + object,m,enfreint,0,1
+control: avoir + participle + object,m,émis,0,1
+control: avoir + participle + object,m,soumis,0,1
+control: ce que + avoir,m,fait,0,169
+control: ce que + avoir,m,dit,0,81
+control: ce que + avoir,m,compris,0,19
+control: ce que + avoir,m,appris,0,12
+control: ce que + avoir,m,mis,0,10
+control: ce que + avoir,m,écrit,0,8
+control: ce que + avoir,m,pris,0,4
+control: ce que + avoir,m,promis,0,1
+control: ce que + avoir,m,découvert,0,1
+control: ce que + avoir,m,produit,0,1
+control: ce que + avoir,m,entrepris,0,1
+control: ce que + avoir,m,prédit,0,1
+control: ce que + avoir,m,réécrit,0,1
+control: masculine noun + que + avoir,m,fait,0,78
+control: masculine noun + que + avoir,m,pris,0,18
+control: masculine noun + que + avoir,m,mis,0,11
+control: masculine noun + que + avoir,m,appris,0,8
+control: masculine noun + que + avoir,m,découvert,0,7
+control: masculine noun + que + avoir,m,dit,0,4
+control: masculine noun + que + avoir,m,écrit,0,3
+control: masculine noun + que + avoir,m,compris,0,2
+control: masculine noun + que + avoir,m,remis,0,2
+control: masculine noun + que + avoir,m,commis,0,2
+control: masculine noun + que + avoir,m,offert,0,2
+control: masculine noun + que + avoir,m,ouvert,0,2
+control: masculine noun + que + avoir,m,repris,0,1
+control: masculine noun + que + avoir,m,transmis,0,1
+control: masculine noun + que + avoir,m,introduit,0,1
+control: il(s) + être,m,mort,0,56
+control: il(s) + être,m,fait,0,42
+control: il(s) + être,m,ouvert,0,31
+control: il(s) + être,m,pris,0,19
+control: il(s) + être,m,mis,0,17
+control: il(s) + être,m,écrit,0,13
+control: il(s) + être,m,satisfait,0,7
+control: il(s) + être,m,dit,0,7
+control: il(s) + être,m,interdit,0,7
+control: il(s) + être,m,assis,0,6
+control: il(s) + être,m,cuit,0,6
+control: il(s) + être,m,acquis,0,5
+control: il(s) + être,m,surpris,0,4
+control: il(s) + être,m,soumis,0,4
+control: il(s) + être,m,atteint,0,3
+control: il(s) + être,m,offert,0,3
+control: il(s) + être,m,construit,0,3
+control: il(s) + être,m,inscrit,0,3
+control: il(s) + être,m,détruit,0,3
+control: il(s) + être,m,compris,0,2
+control: il(s) + être,m,contraint,0,2
+control: il(s) + être,m,traduit,0,2
+control: il(s) + être,m,transmis,0,2
+control: il(s) + être,m,rassis,0,1
+control: il(s) + être,m,repris,0,1
+control: il(s) + être,m,admis,0,1
+control: il(s) + être,m,découvert,0,1
+control: il(s) + être,m,reconduit,0,1
+control: il(s) + être,m,remis,0,1
+control: il(s) + être,m,restreint,0,1
+control: il(s) + être,m,réduit,0,1
+control: il(s) + être,m,éteint,0,1

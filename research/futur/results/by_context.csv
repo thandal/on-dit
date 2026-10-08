@@ -1,0 +1,38 @@
+factor,value,futur_simple,futur_proche,pct_simple
+all,all,7382,10277,41.8
+polarity,affirmative,6295,9542,39.7
+polarity,ne alone,76,2,97.4
+polarity,other negation word,246,48,83.7
+polarity,pas,765,685,52.8
+negated,affirmative,6295,9542,39.7
+negated,negated,1087,735,59.7
+"after quand, lorsque, dès que",no,7180,10098,41.6
+"after quand, lorsque, dès que",yes,202,179,53.0
+person,il,4276,4799,47.1
+person,ils,514,929,35.6
+person,je,1418,3238,30.5
+person,nous,64,69,48.1
+person,tu,572,632,47.5
+person,vous,538,610,46.9
+situation,conversation,2840,3810,42.7
+situation,interview,1135,2027,35.9
+situation,meeting,1219,1129,51.9
+situation,phone help line,1069,2183,32.9
+situation,public speech,495,656,43.0
+situation,service,31,99,23.8
+situation,storytelling,564,367,60.6
+situation,unknown,29,6,82.9
+corpus,cfpp,431,695,38.3
+corpus,clapi,483,800,37.6
+corpus,coralrom,507,775,39.5
+corpus,crfp,559,1025,35.3
+corpus,decoda,1069,2183,32.9
+corpus,fleuron,268,196,57.8
+corpus,frenchoralnarrative,547,329,62.4
+corpus,reunions-de-travail,844,821,50.7
+corpus,tcof,1027,1140,47.4
+corpus,tufs,1647,2313,41.6
+"without être, avoir, falloir: negated",affirmative,3789,8287,31.4
+"without être, avoir, falloir: negated",negated,681,664,50.6
+without je (je -rai / -rais),affirmative,5138,6536,44.0
+without je (je -rai / -rais),negated,826,503,62.2

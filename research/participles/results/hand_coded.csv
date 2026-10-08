@@ -1,0 +1,293 @@
+corpus,doc,speaker,start,context_type,participle,written,form,keep,note,antecedent,context
+cfpp,Bernard_Rosier_H_60_Micheline_Rosier_58_12e,Bernard_Rosier,4027.729980,rel,réduit,m,réduit,no,que introduces a clause (l'impression que),l' impression,d' ailleurs j' ai l' impression qu' ils ont fortement réduit
+cfpp,Mathilde_Lelong_F_85_Marie_Louise_Orsin_F_64_11e,Dominique_Orsin,5111.200195,rel,fait,m,fait,yes,,la chose,c' était oui c' est bien la seule chose qu' il ait fait d' ailleurs
+cfpp,Pauline_de_Bordes_F_67_7e,Pauline_de_Bordes,1357.219971,rel,reproduit,m,reproduit,no,"que is temporal (la fois que, une fois que, ça fait X que)",les fois,c' est les premières c' est les premières fois qu' on a reproduit des vierges du quinzième que
+cfpp,Pauline_de_Bordes_F_67_7e,Pauline_de_Bordes,2553.090088,rel,fait,m,fait,no,antecedent is masculine (atelier),la atelier,et ben là la premier atelier qu' elle ait fait avant de faire son école
+cfpp,Pierre_Beysson_H_59_Marie_Beysson_F_X_12e,Sonia_Branca-Rosoff,2174.010010,rel,découvert,m,découvert,yes,,choses,il y a des choses que vous avez découvert plus ou moins récemment
+cfpp,Rosemonde_Ehrard_60_et_Patrick_Bernard_49_7e,Rosemonde_Ehrard,1675.479980,rel,fait,f,faites,yes,,choses,fai-~ de faire énormément de choses que je n' aurais sûrement pas faites ouais ouais tout à fait
+cfpp,Rosemonde_Ehrard_60_et_Patrick_Bernard_49_7e,Rosemonde_Ehrard,3473.379883,rel,fait,f,faites,yes,,choses,ça c' est des choses qu' on a faites
+cfpp,Therese_Le_Vern_F_70_Valentine_Testanier_F_60_12e,Valentine_Testanier,2489.889893,rel,souffert,m,souffert,no,que introduces a clause (l'impression que),l' impression,et j' ai pas l' impression qu' ils en ont souffert
+clapi,aperitif_chat,JUL,423.359985,rel,découvert,f,découverte,yes,,une association,en fait c' est une petite association que j' ai découverte ouais
+clapi,montage_meuble,MIC,930.450012,rel,dit,m,dit,no,"que is temporal (la fois que, une fois que, ça fait X que)",fois,que j' ai montés ici le nombre de fois que j' ai dit putain
+clapi,reunion_organisation_dh,LIN,957.559998,rel,appris,m,appris,yes,,une chose,aussi je disons euh il y a une chose que j' ai appris euh quand je vivais en
+clapi,reunion_organisation_dh,GAB,2783.199951,rel,fait,m,fait,no,antecedent is masculine (travail),résilience,enfin visiblement son travail de résilience qu' elle a fait toute seule est énormissime bien
+coralrom,ffamcv09,PER,100.160004,rel,fait,m,fait,yes,,celle,mais moi celle que j' avais fait au premier semestre c' était
+coralrom,ffamcv09,JEA,158.919998,rel,fait,m,fait,no,antecedent is masculine (stages),écriture,détail de tous les stages d' atelier d' écriture qu' il a fait et tout
+coralrom,ffamcv09,STE,251.240005,rel,mis,m,mis,yes,,une indication,soit c' est une indication que l' auteur a mis dans son livre que lui
+coralrom,ffamdl10,DAV,371.869995,rel,fait,f,faites,yes,,celles,c' est vraiment une destination complètement différente de celles que j' avais faites avant
+coralrom,ffamdl23,CLE,323.209991,rel,mis,m,mis,yes,,celle,après il sort celle qu' il a mis dedans
+coralrom,ffamdl25,MAR,47.389999,rel,fait,m,fait,yes,,chose,les familles chose que je n' ai plus fait
+coralrom,ffamdl26,MAR,214.710007,rel,fait,f,faites,yes,,les photos,pied cinéma pour en revenir à Lourdes les photos que j' avais faites
+coralrom,ffammn01,PIE,392.649994,rel,fait,m,fait,yes,,la chose,alors la première chose qu' on a fait
+coralrom,ffammn01,PIE,615.549988,rel,fait,m,fait,yes,,les plongées,enfin donc les p-~ par contre les les plongées qu' on a fait
+coralrom,ffammn01,PIE,980.289978,rel,fait,m,fait,yes,,la chose,et là la première chose qu' on a fait on est descendu
+coralrom,fmedsc01,XYZ,863.690002,rel,pris,m,pris,no,"que is temporal (la fois que, une fois que, ça fait X que)",une heure,mais a bien euh ça fait presqu' une heure qu' elle a pris le cachet
+coralrom,fnatpd01,LAR,299.630005,rel,fait,m,fait,yes,,la lettre,le papier de Cassen qui est la la lettre qu' il a fait au fondateur
+coralrom,fpubdl03,EMA,275.279999,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,base numéro un c' est le dialogue une fois qu' on a fait
+coralrom,ftelpv28,OPE,14.440000,rel,fait,m,fait,yes,,une erreur,mais c' est une erreur qu' ils ont fait
+crfp,PRI-AMI-2,L1,530.369995,rel,appris,m,appris,no,unclear,vie,c' est un petit peu l' école de vie que j' ai appris en pénitentiaire
+crfp,PRI-CLE-1,L1,785.380005,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",la fois,et mais d-~ remarque c' est la seule fois qu' elle a fait
+crfp,PRI-CLE-2,L1,980.239990,rel,appris,f,apprise,yes,,la leçon,chagrin de penser de régurgiter le lendemain la leçon que j' avais apprise
+crfp,PRI-GRE-2,L2,399.890015,rel,fait,f,faite,yes,,la traversée,la dernière traversée que j' ai faite
+crfp,PRI-NAN-1,L1,36.240002,rel,fait,f,faites,yes,,les photos,vacances et tout puis en fait les premières photos que j' ai faites
+crfp,PRI-NAR-2,L1,271.679993,rel,construit,m,construit,no,"que is temporal (la fois que, une fois que, ça fait X que)",l' époque,l' époque que j' avais déjà construit ma petite maison à à
+crfp,PRI-PNO-4,L1,88.709999,rel,acquis,m,acquis,no,"que is temporal (la fois que, une fois que, ça fait X que)",chaque fois,et en fait il coche chaque fois qu' il a acquis
+crfp,PRI-PNO-4,L1,795.989990,rel,compris,m,compris,yes,,notions,des petites notions de soutien de notions qu' ils ont compris
+crfp,PRI-POI-1,L1,296.799988,rel,pris,m,pris,yes,,la direction,sais pas au lieu de de continuer dans la direction qu' il avait pris de freiner de de prendre
+crfp,PRI-PRI-1,L1,324.309998,rel,fait,m,faits,yes,,vidéos,on a regardé euh des des vidéos qu' on avait faits qu' on avait tournées ces
+crfp,PRI-STR-1,L1,830.299988,rel,pris,m,pris,yes,,la solution,c' était la bonne solution qu' on a pris pour pour pour le réaliser
+crfp,PRI-VAL-1,L2,105.389999,rel,pris,m,pris,yes,,mes cigarettes,que j' ai commencé à fumer mes premières cigarettes que j' ai pris peut-être mes premières cuites des
+crfp,PRO-PCR-1,L1,881.510010,rel,pris,f,prise,yes,,l' assurance,aperçois a contrario quand je les regarde de l' assurance que j' ai prise et de la flexibilité de
+crfp,PRO-PNO-1,L1,719.869995,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,et après une fois que j' ai fait une petite sélection je vois
+crfp,PRO-QUI-1,L1,359.790009,rel,fait,m,fait,yes,,la place,quand on voit la place qu' on a fait devant la mairie c' est
+crfp,PUB-AMI-1,L6,868.030029,rel,fait,m,fait,yes,,la proposition,non que l' architecte vienne moi la proposition que j' ai fait aujourd' hui
+crfp,PUB-PAU-1,L1,286.179993,rel,écrit,f,écrites,yes,,pièces,n' est-ce pas de la quantité impressionnante de pièces qu' il a écrites
+decoda,20091112_RATP_SCD_0148.w+p,Conseiller,33.380001,rel,mis,m,mis,yes,,la recharge,ou c' est la recharge que vous avez mis sur votre passe
+decoda,20091112_RATP_SCD_0278.w+p,appelant,67.570000,rel,pris,m,pris,no,unclear (genre de cartes),cartes,est ce que c' est comme genre de cartes qu' ils ont pris
+decoda,20091112_RATP_SCD_0378.w+p,Appelant,31.070000,rel,couvert,f,couverte,yes,,écharpe,grande écharpe que j' ai couverte avec je ne sais pas
+decoda,20091112_RATP_SCD_0683.w+p,appelant,201.460007,rel,pris,m,pris,no,"que is temporal (la fois que, une fois que, ça fait X que)",années,parce que moi ça fait euh des années que j' ai pas pris euh la la RATP
+decoda,20091112_RATP_SCD_0754.w+p,conseiller_M05,56.090000,rel,fait,f,faite,yes,,la demande,par rapport à la demande que vous avez faite
+decoda,20101206_RATP_SCD_0040.w+p,appellant,28.700001,rel,pris,m,pris,yes,,zones,en fait euh ça correspond pas aux aux zones que j' ai pris
+decoda,20101206_RATP_SCD_0168.w+p,conseiller,167.199997,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,ah une fois que vous avez fait
+decoda,20101206_RATP_SCD_0347.w+p,appelant,16.360001,rel,pris,f,prises,yes,,zones,ben ça dépend des zones que vous avez prises ben pour l' instant
+decoda,20101206_RATP_SCD_0386.w+p,centrebus,14.350000,rel,fait,m,fait,no,que is not the object (object follows),famille,à propos d' un d' une carte de famille qu' on a fait la demande
+decoda,20110704_RATP_SCD_0150.w+p,appelant,11.630000,rel,pris,m,pris,yes,,une carte,je voudrais arrêter euh une carte que j' ai pris euh l' année dernière
+decoda,20110704_RATP_SCD_0273.w+p,appelant,14.550000,rel,mis,m,mis,yes,,la plainte,pour la plainte que j' avais mis contre le le chauffeur de
+decoda,20110704_RATP_SCD_0288.w+p,appelant,15.640000,rel,fait,m,fait,yes,,la suite,té téléphoner pour vous remercier pour le la suite que vous avez fait pour euh mon la plainte
+frenchoralnarrative,Bizouerne_061-7_LE_VAMPIRE,Bizouerne,507.890015,rel,fait,f,faite,yes,,la promesse,on lui a rappelé la promesse qu' on avait faite pour la défunte
+frenchoralnarrative,Bizouerne_062-5_AVEUGLE,Bizouerne,324.600006,rel,pris,m,pris,yes,,la boîte,derviche c' est quoi la petite boîte que tu as pris qu' est-ce qu' il y
+frenchoralnarrative,Caudal_LANKOU_2,Caudal,543.590027,rel,fait,m,fait,no,quotative (qu'il a fait = he said),la paix,fiche-moi la paix qu' il a fait le grand-père
+frenchoralnarrative,Cevin_060-3_LE_MARCHAND,Cevin,1842.510010,rel,dit,m,dit,no,unclear,une idée,ah bon c' est une bonne idée qu' ils ont dit
+reunions-de-travail,CCI_CoDir_19nov07_2,L5,1099.040039,rel,mis,m,mis,yes,,une action,ou c' est une action que vous avez mis en place pour offrir un nouveau
+reunions-de-travail,CCI_ReunionInterne_26fev08,L2,2369.739990,rel,fait,m,fait,yes,,l' analyse,de l' analyse qu' on a fait dans le diagnostic territorial on
+reunions-de-travail,Immobilier_ALRC_GIS_8juil08,L1,3074.939941,rel,fait,f,faites,yes,,les attributions,parce qu' on a déjà dit que toutes les attributions qu' on avait faites
+reunions-de-travail,Immobilier_CoDir_GIS_19mai08,L1,2936.280029,rel,fait,m,fait,yes,,la photographie,la la photographie sociale qu' on a fait dans le conventionnement là
+reunions-de-travail,Immobilier_CoDir_GIS_9juin08,L6,2357.520020,rel,mis,m,mis,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,on peut inventer tous les ans euh une fois qu' on a mis les gardiens une fois qu'
+reunions-de-travail,Immobilier_CoDir_GIS_9juin08,L6,2358.830078,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,fois qu' on a mis les gardiens une fois qu' on a fait les enquêtes une fois qu'
+reunions-de-travail,Immobilier_CoDir_GIS_9juin08,L6,2359.949951,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,fois qu' on a fait les enquêtes une fois qu' on a fait ci
+reunions-de-travail,OF1_CA_3Dec07,L5,2051.010010,rel,fait,f,faite,yes,,délégation,signe une convention il joint le la dégé-~ délégation que tu as faite
+reunions-de-travail,OF1_CA_3Dec07,L2,3501.729980,rel,fait,m,fait,no,que is not the object (object follows),l' anpe,une fois que tu es rentré dans l' ANPE que tu as fait les relations
+reunions-de-travail,OF1_Reunion22Nov07,L2,1540.959961,rel,découvert,m,découvert,yes,,les fiches,les fiches mensuelles qu' on a découvert
+reunions-de-travail,OF1_Reunion22Nov07,L3,4621.049805,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,après je redonne à NNAAMMEE une fois que j' ai fait la récap
+reunions-de-travail,OF1_ReunionService_10dec07,L1,234.960007,rel,fait,m,fait,yes,,les remarques,pareil notez toutes les remarques qu' on a fait
+tcof,Apprendreaulycee,L2,281.76,rel,fait,f,faites,yes,,les recherches,il faut dedans il faut inscrire euh les recherches qu' on a faites les si on est allées
+tcof,Bila_jad_07,L1,326.019989,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,ouais l' été de toute façon une fois qu' on a bien fait notre démo tente ou quoique
+tcof,Boxe_sd,L1,362.260010,rel,fait,m,fait,no,a duration,les années,les huit années que j' ai fait en amateur
+tcof,Cine_sao_07,L2,243.979996,rel,fait,f,faite,yes,,la plus,mais c' était la plus courte euh que j' ai faite en fait
+tcof,Conversation_kri_08_part1,L3,344.049988,rel,fait,m,fait,yes,,connerie,ça c' est la une p-~ putain de connerie que j' ai fait
+tcof,Deltaplane_tus,L2,982.25,rel,fait,m,fait,no,que introduces a clause (l'impression que),l' impression,l' année euh j' ai toujours l' impression que j' ai pas fait assez de vols quoi que
+tcof,Emploi_cha_08,L1,834.729980,rel,fait,f,faite,yes,,la lettre,que la lettre que vous avez faite
+tcof,Employeducnrs,L1,753.479980,rel,fait,m,fait,yes,,choses,on fait on fait plein de choses qu' on a pas fait jusque maintenant qu' on a
+tcof,Explorationssonores,L1,481.250000,rel,ouvert,m,ouvert,no,"que is temporal (la fois que, une fois que, ça fait X que)",la fois,la première fois que j' ai ouvert un un piano droit d'
+tcof,Lin_dans_08,L1,835.62,rel,fait,m,fait,yes,,démarche,et maintenant dernière démarche qu' ils ont fait tous les deux parce#que j'
+tcof,Mili_89,L1,1748.29,rel,fait,m,fait,yes,,la erreur,la grosse erreur que nous avons fait
+tcof,Pedi_gra_06,L2,14.49,rel,prescrit,f,prescrites,yes,,les radios,on a on a fait les radios euh que vous aviez prescrites il y a deux jours
+tcof,Rae_ash_sd,L2,255.570007,rel,compris,m,compris,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,les premiers que je leurs apprends après une fois qu' ils ont compris le truc ça va
+tcof,See_reu_mat_08,L1,28.010000,rel,fait,m,faits,yes,,les marionnettes,et puis ben vous aussi pour les toutes les marionnettes que vous avez faits c' est vrai que j'
+tcof,Tromboniste,L2,525.32,rel,fait,f,faites,yes,,les études,euh ah#ben la avec les études avec les études que j' avais faites
+tcof,chocolats,L2,307.470001,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,il faut les tri~ une fois que tu auras fait les dix sacs
+tcof,concert_Indochine,L2,385.769989,rel,fait,m,fait,yes,,la vidéo,vidéo le son c' est une catastrophe la vidéo que j' ai fait
+tcof,concert_Indochine,L2,518.739990,rel,pris,m,pris,yes,,celle,après il y en a eu une bah celle que j' ai pris en vidéo qu' on entend
+tcof,pipelette,L1,151.750000,rel,mis,m,mis,yes,,la couleur,il y a trois on colorie de la couleur qu' ils ont mis euh en haut
+tcof,pompiers,L2,403.579987,rel,fait,m,fait,yes,,les interventions,pompier on peut se raconter euh les différentes interventions qu' ils ont fait et tout
+tcof,vacances,L2,79.970001,rel,fait,m,fait,yes,,les excursions,et euh c' était bien surtout les excursions qu' on a fait
+tufs,01BHGM110912,GM,775.450012,rel,compris,m,compris,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,après une fois que tu as compris le fonctionnement
+tufs,01BHGM110912,GM,3909.820068,rel,fait,m,fait,yes,,la tête,de toutes façons tu sais tu as vu la tête qu' il a fait tout à l' heure
+tufs,01BHGM110912,BH,4552.279785,rel,fait,m,fait,yes,,les études,fait rire quoi parce que quand tu vois les études qu' elle a fait c' est c'-~ s-~ sur
+tufs,03_MW_CD_100222,CD,4349.970215,rel,pris,f,prise,yes,,une photo,oui enfin c' est une photo qu' on a prise à Marseille
+tufs,05LRGL110912,GL,3254.830078,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",la fois,attraction qui me fait peur qui la dernière fois que j' ai fait une attraction comme ça
+tufs,05_SB_LZ_100223,LZ,1722.459961,rel,fait,f,faites,yes,,choses,mais il y a des choses que j' aurais pas faites hein
+tufs,05_SB_LZ_100223,LZ,1765.939941,rel,compris,m,compris,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,il s' amuse un petit peu quelque part une fois qu' il a compris
+tufs,07MADMC110912,DMC,76.209999,rel,pris,f,prise,yes,,la feuille,voilà donc tu vois la jolie feuille que j' ai prise eh ben
+tufs,09BAPE110913,PE,1000.559998,rel,fait,m,fait,yes,,la chose,moi de toute façon la première chose que j' aurais fait ce serait d' allumer mon
+tufs,09_PN_SB_100224,SB,3183.610107,rel,fait,m,fait,no,unclear,initiation,après euh la licence j' ai pris espagnol initiation que j' ai fait
+tufs,10CJTD110913,TDM,1118.880005,rel,pris,f,prises,yes,,mes photos,il faudrait peut-être que je mette mes photos que j' ai prises euh sur mon ordinateur
+tufs,10_MD_EM_100224,MD,721.299988,rel,mis,m,mis,yes,,les pièces,ou il aura cinquante plus les pièces qu' il aura déjà mis
+tufs,11DCFBC110913,DCF,2493.850098,rel,fait,m,fait,yes,,la voix,pour voir la voix qu' ils lui ont fait à Nino
+tufs,13MADMC110913,DMC,458.700012,rel,fait,m,fait,yes,,la résistance,ont pas été exécutés mais vu la la résistance qu' ils avaient fait de toute façon
+tufs,13MADMC110913,DMC,698.250000,rel,pris,f,prise,yes,,une habitude,bah ça c' est une habitude que j' ai prise avec les cours de lettres
+tufs,13MADMC110913,MA,1056.180054,rel,compris,m,compris,yes,,choses,réécrivant six fois je vais comprendre des choses que j' ai pas compris avant
+tufs,14HCMJ110913,MJ,2918.820068,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,une fois que tu avais fait les quatre activités que tu
+tufs,14HCMJ110913,MJ,3455.739990,rel,écrit,m,écrit,no,unclear,grammaire,moi aussi il y a que en japonais grammaire que j' ai écrit tout bien
+tufs,16KSLR110914,LR,4919.419922,rel,pris,f,prise,yes,,la résolution,parce que c' est la résolution que j' ai prise d' accord
+tufs,18_AB_LS_100225,AB,1518.140015,rel,appris,m,appris,yes,,les langues,les langues que tu as appris quoi
+tufs,21_JB_CD_100225,JB,1673.640015,rel,fait,m,fait,yes,,les conférences,je t' avais montré euh les conférences qu' ils avaient fait avec euh la couleur chez
+tufs,21_JB_CD_100225,JB,2366.479980,rel,fait,m,fait,no,antecedent is masculine (gâteaux),la cannelle,me fait penser aux gâteaux à la la cannelle qu' elle avait fait pour euh Noël
+tufs,25_CC_SL_100226,SL,281.559998,rel,fait,m,fait,yes,,la sortie,la sortie scolaire qu' on a fait c' est dans son village
+tufs,25_CC_SL_100226,SL,3297.439941,rel,fait,m,fait,no,que introduces a clause (l'impression que),l' impression,tu avais l' impression qu' on avait fait deux trois plongeons dans la
+tufs,Kathy,B,85.949997,rel,fait,m,fait,no,"que is temporal (la fois que, une fois que, ça fait X que)",une fois,mais après quand je dors une fois que j' ai fait ça je dors
+tufs,Kathy,A,608.520020,rel,fait,m,fait,no,que introduces a clause (l'impression que),l' impression,mais c' est parce que j' ai l' impression qu' elle a fait qu' une chanson et que
+tufs,fr16_2005_07_05,L1,1605.430054,rel,fait,m,fait,no,antecedent is masculine (jet d'eau),eau,oui oui tu as vu le jet d' eau qu' il a fait
+decoda,20091112_RATP_SCD_0278.w+p,conseiller_M03,92.639999,rel,fait,m,fait,yes,gender by hand,une déesse,vous êtes sûre que c' est un passe Intégrale qu' ils ont fait non
+tufs,01_OG_NH_100222,OG,2795.270020,rel,appris,m,appris,yes,gender by hand,des caches,tous les kanjis que j' ai appris là
+coralrom,fnatco03,CLA,1003.609985,rel,fait,f,faites,yes,gender by hand,les explications de textes,eh bien aux deux dernières explications de textes hein que euh nous avons faites
+frenchoralnarrative,De_La_Salle_GRAND-MERE_MENSONGE_4,DeLaSalle,201.929993,rel,mis,f,mises,yes,gender by hand,mes chaussures de mariage,j' ai pris mes chaussures de mariage que je n' avais jamais mises
+tufs,11DCFBC110913,BC,390.380005,rel,mis,m,mis,yes,gender by hand,mes chaussures de l'été,bien mes chaussures de l' été que j' ai pas mis de l' été parce que comme
+clapi,commerce_boulangerie_rurale_C21_C40,C35,3293.639893,clitic,pris,m,pris,yes,,la framboise,mais la framboise je l' ai pris elle était bien bonne
+clapi,reunion_conception_mosaic_architecture,M,311.20,clitic,fait,m,faits,yes,,des petites chambres,comme on les avait faits
+clapi,visite_guidee_manoir_guide1,GU1,1070.619995,clitic,repeint,m,repeints,yes,,les guirlandes,et euh donc là on les a repeints en noir parce que souvent c'
+coralrom,fpubmn01,JUL,154.820007,clitic,réduit,m,réduit,yes,,l'oeuvre,on l' a réduit à une pièce
+coralrom,fpubmn01,JUL,216.449997,clitic,fait,m,faits,yes,,ces petites boules,alors on va voir que euh il les a faits aussi en différents matériaux ces
+crfp,PRI-GAP-2,L2,1023.849976,clitic,fait,m,faits,yes,,les grosses manifestations,les grosses manifestations on les a faits
+crfp,PRI-GAP-2,L2,1026.689941,clitic,fait,m,faits,yes,,les grosses manifestations,mais on les a faits à Marseille avec Parlaren notamment
+crfp,PRI-NAN-1,L1,106.750000,clitic,pris,m,pris,yes,,la mer,et je l' ai pris mais sous des angles un peu
+decoda,20091112_RATP_SCD_0827.w+p,conseiller_M06,107.160004,clitic,fait,m,fait,yes,,la demande,cette semaine elle l' a fait cette semaine
+decoda,20101206_RATP_SCD_0125.w+p,appelant,121.050003,clitic,fait,m,fait,yes,,la photo,non non je l' avais fait en agence
+decoda,20110704_RATP_SCD_0047.w+p,conseiller_M10,17.400000,clitic,fait,m,fait,yes,,une demande,parce que vous l' avez fait
+decoda,20110704_RATP_SCD_0047.w+p,conseiller_M10,18.020000,clitic,fait,m,fait,yes,,la demande,vous l' avez fait quand la demande
+decoda,20110704_RATP_SCD_0476.w+p,conseiller_F10,51.680000,clitic,fait,m,fait,yes,,cette carte,vous l' aviez fait en agence cette euh carte
+frenchoralnarrative,De_La_Salle_GRAND-MERE_MENSONGE_2,DeLaSalle,542.869995,clitic,offert,m,offert,yes,,l'hospitalité,ils ils me l' ont offert
+reunions-de-travail,CCI_CoDir_19nov07_2,L2,6082.470215,clitic,mis,m,mis,yes,,la sensibilisation,et puis euh donc euh peut-être que je l' avais mis en haut la sensibilisation euh à
+reunions-de-travail,CCI_CoDir_19nov07_2,L3,7751.850098,clitic,mis,m,mis,yes,,la cession,oui et la cession moi je l' ai mis moi
+tcof,Bila_jad_07,L2,26.620001,clitic,repris,m,repris,yes,,les lunettes,donc je les ai repris
+tcof,Cafe_leg_06,L1,234.369995,clitic,mis,m,mis,yes,,la voiture,elle me l' a mis j' ai cru
+tcof,Conv_cai_06,L2,557.95,clitic,éteint,m,éteint,yes,,la télé,non je l' ai éteint
+tcof,Conversation_mat_08,L2,106.38,clitic,fait,m,fait,yes,,la cigarette,je te l' aurais fait
+tcof,Lin_dans_08,L2,418.12,clitic,fait,m,fait,yes,,les photos,mais vous les avez fait dans la salle
+tcof,Pomp_prov_sd,L2,1369.73,clitic,pris,m,pris,yes,,une petite trousse,je l' ai pris
+tufs,10_MD_EM_100224,MD,706.940002,clitic,mis,m,mis,yes,,la première grille,grille on e on estime que la première grille on l' avait mis à cinquante points quand tout
+tufs,32_XC_MB_100228,MDB,649.340027,clitic,fait,m,fait,yes,,la visite,tu vous vous l' avez fait en c-~ en com-~ en
+tufs,Gael,B,3009.419922,clitic,repris,m,repris,yes,,ma formule,n' empêche qu' il l' a bien repris
+cfpp,Bernard_Rosier_H_60_Micheline_Rosier_58_12e,Sonia_Branca-Rosoff,2418.540039,clitic,transmis,f,transmises,yes,,les langues,et tu ne les as pas transmises
+cfpp,Blanche_Duchemin_F_25_Reine_Ceret_F_60_11e,Blanche_Duchemin,3196.219971,clitic,fait,f,faite,yes,,la Nuit blanche,je l' avais faite très activement
+cfpp,Isabelle_Legrand_F_32_Anne-Lies_Simo-Groen_F_30_RO,Isabelle_Legrand,2207.159912,clitic,fait,f,faite,yes,,la préparation,ben la préparation en fait je l' ai pas faite
+cfpp,Killian_Belamy_H_22_Lucas_Hermano_H_21_KB,Lucas_Hermano,623.900024,clitic,rouvert,f,rouverte,yes,,la piscine,ils l' ont plus jamais rouverte
+cfpp,Louise_Liotard_F_85_et_Jeanne_Mallet_F_75_SO-1,Jeanne_Mallet,963.340027,clitic,pris,f,prises,yes,,mes clés,dans ma main comme d' habitude heureusement qu' elles les ont pas prises d' ailleurs
+cfpp,Mathieu_Rosier_H_28_Elisa_Rysnik_F_26_12e,Mathieu_Rosier,3100.959961,clitic,découvert,f,découverte,yes,,la banlieue,moi je l' ai découverte
+cfpp,Youcef_Zerari_H_29_Abdel_Hachim_H_25_SO,Youcef_Zerari,7272.689941,clitic,mis,f,mises,yes,,des petites antennes,mais euh ben ils ont sup~ ils les ont mises
+coralrom,ffamdl25,MAR,354.690002,clitic,pris,f,prise,yes,,sa jarretière,je l' ai prise à trois centimètres
+coralrom,ffamdl27,MAR,414.130005,clitic,fait,f,faite,yes,,la photo,mais je l' ai pas faite parce que justement j' avais pas
+crfp,PRI-PNO-1,L1,522.270020,clitic,fait,f,faites,yes,,des conneries,à personne tous ceux qui ont été à l' internat les ont faites
+crfp,PRI-SAI-1,L2,158.789993,clitic,fait,f,faite,yes,,la moissonneuse-lieuse,ah bé si après ils l' ont faite la la moissonneuse-lieuse
+decoda,20091112_RATP_SCD_0201.w+p,Appelant,48.360001,clitic,conduit,f,conduite,no,no feminine noun within the search window used for the masculine ones,a woman,et euh donc euh je l' ai conduite au quatre vingt douze l'
+decoda,20091112_RATP_SCD_0311.w+p,Appelant,26.790001,clitic,fait,f,faite,no,fait + infinitive (faite tombée),,est ce que je ne l' ai pas faite tombée
+decoda,20091112_RATP_SCD_0574.w+p,conseiller_M03,21.840000,clitic,fait,f,faite,yes,,votre demande,vous l' avez faite quand votre demande
+decoda,20091112_RATP_SCD_0754.w+p,conseiller_M05,28.570000,clitic,pris,f,prise,yes,,cette carte,cette carte vous l' avez prise
+decoda,20091112_RATP_SCD_0754.w+p,appelant,57.380001,clitic,fait,f,faite,yes,,la demande,ah la demande je l' ai faite fin septembre
+decoda,20101206_RATP_SCD_0175.w+p,conseiller,59.450001,clitic,fait,f,faite,yes,,la demande,et la demande vous l' avez faite
+decoda,20101206_RATP_SCD_0407.w+p,conseiller,83.349998,clitic,mis,f,mises,yes,,les radios,j' espère qu' elle les a bien mises au bon endroit vous voyez
+decoda,20110704_RATP_SCD_0408.w+p,conseiller_M12,71.489998,clitic,fait,f,faite,yes,,la suspension,&tt la suspension vous l' avez faite quand exactement vous vous rappelez
+decoda,20110704_RATP_SCD_0493.w+p,conseiller_F13,41.560001,clitic,fait,f,faite,yes,,la suspension,et la suspension vous l' avez faite
+frenchoralnarrative,Boyer_100-3_TAVERNE_DE_GALWAY,Boyer,1916.229980,clitic,pris,f,prise,yes,,her,et pour toute réponse le jeune comte l' a prise dans ses bras
+frenchoralnarrative,Cevin_060-3_LE_MARCHAND,Cevin,612.690002,clitic,fait,f,faite,no,fait + infinitive,,alors la femme du marchand l' a faite venir et lui a dit
+frenchoralnarrative,Cevin_060-3_LE_MARCHAND,Cevin,780.909973,clitic,mis,f,mise,yes,,the queen,elle est plus belle que vous alors ça ça l' a mise en rage
+frenchoralnarrative,De_La_Salle_GRAND-MERE_MENSONGE_2,DeLaSalle,199.350006,clitic,mis,f,mise,yes,,the narrator (a doll),était très vieille alors on l' a mis au on l' a mise au grenier pour sécher
+frenchoralnarrative,De_La_Salle_GRAND-MERE_MENSONGE_4,DeLaSalle,621.479980,clitic,mis,f,mises,yes,,mes chaussures,je les ai mises dans la direction dans laquelle
+frenchoralnarrative,Desnouveaux_049-4_NATIVITE_DE_LA_VIERGE_BIBLIQUE,Desnouveaux,182.740005,clitic,conduit,f,conduite,yes,,Marie,et Joachim l' ont conduite à Jérusalem au temple pour
+reunions-de-travail,CCI_CoDir_19nov07_2,L6,6265.520020,clitic,mis,f,mise,yes,,l'action,voilà tu l' a mise
+reunions-de-travail,CCI_ReunionInterne_15jan08,L2,3824.090088,clitic,fait,f,faite,yes,,cette convocation,si on l' avait pas faite cette convocation si on l'
+reunions-de-travail,Immobilier_CoDir_GIS_9juin08,L6,3084.340088,clitic,mis,f,mise,yes,,la liste,ben si on leur a mis la liste dedans on l' a mise avec
+reunions-de-travail,OF1_CA_3Dec07,L6,1273.239990,clitic,fait,f,faite,no,no feminine noun within the search window used for the masculine ones,a training session,on l' a faite à NNAAMMEE à NNAAMMEE
+reunions-de-travail,OF1_ReunionComiteFormation-21fev08,L3,447.649994,clitic,fait,f,faite,yes,,une formation,donc trois personnes étaient concernées deux l' ont faite
+reunions-de-travail,OF1_SeanceTravail_4dec07,L1,2252.120117,clitic,mis,f,mise,no,no feminine noun within the search window used for the masculine ones,coordinatrice,on l' a mise en dans l-~ dans l'
+reunions-de-travail,Transport_ConversationsBureauRH5,L9,132.270004,clitic,pris,f,prise,no,no feminine noun within the search window used for the masculine ones,unclear,ah oui tu tu l' avais prise ou pas toi
+tcof,Bila_jad_07,L2,133.080002,clitic,fait,f,faite,yes,,l'allée,mais moi déjà le l' allée là je l' aurais pas du tout euh faite comme ça hein
+tcof,Reunionpp_aar_08,L1,110.800003,clitic,fait,f,faite,yes,,cette heure de retenue,non non tu l' as pas faite cette heure de retenue
+tufs,01_OG_NH_100222,NH,139.669998,clitic,pris,f,prise,yes,,la liste,je croyais que je l' avais prise avec moi
+tufs,02AMGL110912,AM,4843.640137,clitic,fait,f,faite,no,fait + infinitive,,moi je l' ai pas faite stériliser je lui ai même
+tufs,04_CA_NV_100223,NV,362.579987,clitic,fait,f,faite,yes,,la fiche de lecture,et la fiche de lecture tu l' as faite
+tufs,04_CA_NV_100223,CA,363.619995,clitic,fait,f,faite,yes,,la fiche de lecture,non je l' ai pas encore faite pour demain
+tufs,05LRGL110912,GL,35.459999,clitic,mis,f,mises,no,antecedent unclear; speaker corrects herself to mis,,et je sais pas si elles les ont mises ou pas mis
+tufs,07MADMC110912,MA,2378.129883,clitic,fait,f,faite,no,fait + infinitive,,je l' ai faite saigner du nez machin
+tufs,07MADMC110912,MA,2389.760010,clitic,pris,f,prise,yes,,ma cousine,je l' ai prise à coups de poing machin
+tufs,16KSLR110914,LR,1126.979980,clitic,construit,f,construite,no,no feminine noun within the search window used for the masculine ones,a building,sais pas s' ils ont rénovée ou s' ils l' ont juste construite euh bien
+tufs,20_FD_CB_100225,CB,1442.449951,clitic,mis,f,mises,yes,,des chaussures,bah hier tu les a mises hein bah il pleuvait
+tufs,20_FD_CB_100225,CB,2720.689941,clitic,mis,f,mise,yes,,la viande,je l' ai mise à la fin tu sais
+cfpp,Andre_Morange_H_58_Mo,André_Morange,3240.179932,refl_f,fait,f,faite,yes,,elle,la prise de conscience de ce genre de choses elle s' est faite tard
+cfpp,Bernard_Rosier_H_60_Micheline_Rosier_58_12e,Micheline_Rosier,3681.770020,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,voilà elle s' est fait
+cfpp,Gary_Collard_H_24_20e,Gary_Collard,889.799988,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,donc elle s' est dit elle s' était dit oui
+cfpp,Gary_Collard_H_24_20e,Gary_Collard,891.179993,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,donc elle s' est dit elle s' était dit oui je travaillerai pour avoir
+cfpp,Julie_Teixeira_F_18_Katia_Teixeira_F_15_11e,Amélie_Tourette,3321.520020,refl_f,mis,f,mises,yes,,elle,elles se sont mises à fumer à cause de chagrins d'
+cfpp,Mathilde_Lelong_F_85_Marie_Louise_Orsin_F_64_11e,Dominique_Orsin,5004.779785,refl_f,mis,m,mis,yes,,elle,mais alors elle s' y est mis à donf alors
+cfpp,Pauline_de_Bordes_F_67_7e,Pauline_de_Bordes,1375.989990,refl_f,fait,f,faite,yes,,elle,ça m' avait frappée hein parce que et puis la disparition elle s' est faite quand même assez lentement
+cfpp,Youcef_Zerari_H_29_Abdel_Hachim_H_25_SO,Youcef_Zerari,2619.530029,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,bon elles se sont dit bon je suis pas là
+clapi,aperitif_glasgow,PAT,1786.569946,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,c' est elle s' est fait jeter je sais pas
+clapi,repas_kiwi,ELI,307.950012,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,et donc du coup euh elle s' était dit
+clapi,repas_kiwi,ELI,316.299988,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,et donc du coup elle s' était dit euh ben je vais rentrer
+clapi,repas_kiwi,ELI,410.820007,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,ensuite elle s' est dit euh
+clapi,repas_kiwi,ELI,420.179993,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,donc euh et donc du coup elle s' est dit en plus elle peut pas
+clapi,repas_kiwi,ELI,536.739990,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,et donc du coup trop la galère donc elle s' est dit euh je vais je vais
+coralrom,ffamcv11,DEL,58.509998,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle elle elle elle aussi elle s' est fait larguer par son mec sauf
+coralrom,ffamdl08,EMI,283.100006,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,ouais et enfin de compte elle se les est fait ligaturer les trompes euh après
+coralrom,fmedts05,EVE,438.769989,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est fait refaire les seins
+coralrom,fnatla01,GIA,76.870003,refl_f,rassis,m,rassis,yes,,elle,après qu' elle se soit rassis à la table un second
+crfp,PUB-PNE-2,L1,445.829987,refl_f,réduit,f,réduite,yes,,elle,elle s' est réduite du fait de la création
+decoda,20101206_RATP_SCD_0021.w+p,apj,264.619995,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,et euh elle s' est fait dessus euh elle est elle
+decoda,20101206_RATP_SCD_0130.w+p,appelant,74.239998,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est fait remarqué par tout le monde quoi
+frenchoralnarrative,Bizouerne_039-2_OUNAMIR,Bizouerne,105.769997,refl_f,mis,f,mise,yes,,elle,puis elle s' est mise sur le côté
+frenchoralnarrative,Bizouerne_039-2_OUNAMIR,Bizouerne,128.880005,refl_f,mis,f,mise,yes,,elle,elle s' est mise devant ses mains
+frenchoralnarrative,Bizouerne_039-2_OUNAMIR,Bizouerne,316.459991,refl_f,mis,f,mise,yes,,elle,elle s' est mise à crier poules poules poules
+frenchoralnarrative,Bizouerne_039-4_POKOU_1,Bizouerne,209.669998,refl_f,mis,f,mise,yes,,elle,et elle s' est mise juste au dessus de la
+frenchoralnarrative,Bizouerne_061-7_LE_VAMPIRE,Bizouerne,193.619995,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est dit il serait peut-être temps d'
+frenchoralnarrative,Bizouerne_061-7_LE_VAMPIRE,Bizouerne,434.549988,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est dit qu' est-ce que je peux
+frenchoralnarrative,Boyer_100-3_TAVERNE_DE_GALWAY,Boyer,1108.689941,refl_f,assis,f,assise,yes,,elle,elle s' est assise elle a mangé la viande
+frenchoralnarrative,Boyer_100-3_TAVERNE_DE_GALWAY,Boyer,1113.910034,refl_f,mis,f,mise,yes,,elle,puis elle s' est mise à chanter
+frenchoralnarrative,Buleon_044-1_CONTE_DE_LA_CREATION,Buleon,190.419998,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,et puis tout d' un coup elle s' est dit quand même qu' il fallait
+frenchoralnarrative,Caudal_LANKOU_4,Caudal,760.919983,refl_f,rouvert,f,rouverte,yes,,elle,elle s' est rouverte
+frenchoralnarrative,Caudal_LANKOU_6,Caudal,236.679993,refl_f,ouvert,f,ouverte,yes,,elle,mais elle s' est ouverte avant même qu' il ait
+frenchoralnarrative,Cevin_060-3_LE_MARCHAND,Cevin,782.109985,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est dit mais qu' est-ce qu' elle
+frenchoralnarrative,Cevin_060-3_LE_MARCHAND,Cevin,1578.530029,refl_f,mis,f,mise,yes,,elle,alors elle s' est mise à pleurer
+frenchoralnarrative,Cevin_060-3_LE_MARCHAND,Cevin,1642.650024,refl_f,pris,m,pris,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est pris des des vêtements de de
+frenchoralnarrative,Cevin_060-3_LE_MARCHAND,Cevin,1653.660034,refl_f,fait,f,faite,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle est allée à la maison de son père elle s' est faite engagée dans les cuisines déguisée
+frenchoralnarrative,De_La_Rochefoucauld_MELUSINE,De_La_Rochefoucauld,974.890015,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,et elle s' est dit voilà
+frenchoralnarrative,De_La_Rochefoucauld_MELUSINE,De_La_Rochefoucauld,982.669983,refl_f,fait,m,fait,yes,,elle,alors elle s' est fait toute petite
+frenchoralnarrative,De_La_Rochefoucauld_MELUSINE,De_La_Rochefoucauld,984.280029,refl_f,mis,m,mis,yes,,elle,elle s' est mis dans la oreille d' Urian
+frenchoralnarrative,De_La_Salle_GRAND-MERE_MENSONGE_1,DeLaSalle,164.940002,refl_f,mis,f,mise,yes,,elle,et puis elle s' est mise à regarder ce qui lui
+frenchoralnarrative,De_La_Salle_GRAND-MERE_MENSONGE_1,DeLaSalle,179.330002,refl_f,mis,f,mise,yes,,elle,elle s' est mise à pleurer à pleurer des
+frenchoralnarrative,De_La_Salle_GRAND-MERE_MENSONGE_2,DeLaSalle,290.570007,refl_f,mis,m,mis,yes,,elle,et puis elle s' est mis à grandir quand même un
+frenchoralnarrative,De_La_Salle_GRAND-MERE_MENSONGE_3,DeLaSalle,444.059998,refl_f,mis,m,mis,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' était pas mis des piercings
+frenchoralnarrative,De_La_Salle_GRAND-MERE_MENSONGE_3,DeLaSalle,445.380005,refl_f,mis,m,mis,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' était mis il y a des des
+frenchoralnarrative,Desnouveaux_017-5_ZAHARA,Desnouveaux,97.580002,refl_f,assis,f,assise,yes,,elle,la porte elle s' est assise sur le sol
+frenchoralnarrative,Garrigue_083-2_LALA_AHISHA,Garrigue,85.040001,refl_f,teint,m,teint,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' était teint la peau en noire noire
+frenchoralnarrative,Garrigue_083-2_LALA_AHISHA,Garrigue,88.620003,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,et elle s' était fait faite vendre comme esclave au
+frenchoralnarrative,Guillemin_038-5_AMOUR_ET_PSYCHE,Guillemin,100.599998,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est dit mais et moi qu' est-ce
+frenchoralnarrative,Guillemin_038-5_AMOUR_ET_PSYCHE,Guillemin,434.010010,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,et elle s' est dit que peut-être
+frenchoralnarrative,Guillemin_038-5_AMOUR_ET_PSYCHE,Guillemin,905.020020,refl_f,recouvert,f,recouvertes,yes,,elle,elles se sont recouvertes de cendres
+frenchoralnarrative,Kiss_202i-10-11_LES_BAIES_DAMOUR,Kiss,367.829987,refl_f,mis,f,mise,yes,,elle,elle s' est mise à quatre pattes
+frenchoralnarrative,Nataf_041-4_LA_CHEMISE_MAGIQUE,Nataf,39.529999,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,d' entendre parler de l' autre bout du monde elle s' est dit je vais aller voir à
+frenchoralnarrative,Nataf_041-4_LA_CHEMISE_MAGIQUE,Nataf,47.880001,refl_f,mis,f,mise,yes,,elle,et elle s' est mise en route avec son fils
+frenchoralnarrative,Nataf_041-4_LA_CHEMISE_MAGIQUE,Nataf,899.869995,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,et elle s' est dit c' est peut-être un bon
+reunions-de-travail,CCI_CoDir_19nov07_2,L3,1456.420044,refl_f,pris,f,prise,yes,,elle,elle s' est bien prise au jeu
+tcof,Chev_beu_sd,L1,647.099976,refl_f,mis,m,mis,yes,,elle,alors elle s' est mis un peu au trot
+tcof,Ferme_jea_08,L1,27.920000,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est dit que on n' allait pas
+tcof,Lic2012-13_Dieu,L1,41.360001,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est dit bon ben c' est foutu euh
+tcof,Stag_bad_08,L2,57.900002,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,les deux premiers jours elle me racontait elle s' est fait chier parce que jusqu' à quatre
+tufs,01BHGM110912,GM,966.799988,refl_f,pris,m,pris,no,"se is not the direct object, or fait + infinitive, or cut off",elle,non elle s' est pris un appart ouais
+tufs,01BHGM110912,GM,2272.550049,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est fait une entorse au pouce parce que
+tufs,01BHGM110912,GM,2272.550049,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle est tombée elle s' est fait une entorse au pouce
+tufs,02AMGL110912,AM,42.660000,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est fait tout violet dans les cheveux
+tufs,08LFBM110912,BM,2133.560059,refl_f,mis,f,mise,yes,,elle,et puis elle s' est mise sous le bureau
+tufs,11DCFBC110913,BC,2216.669922,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,quoi ah ouais mais comment elles se sont fait mal tu sais pas comment
+tufs,11DCFBC110913,BC,2220.810059,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,et NNAAMMEE elle s' est fait
+tufs,12VLHW110913,HW,1571.459961,refl_f,fait,f,faite,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est faite
+tufs,12_JG_AI_100224,AI,1064.290039,refl_f,inscrit,f,inscrite,yes,,elle,si elle avait dit qu' elle s' était inscrite au second semestre pour euh
+tufs,12_JG_AI_100224,JG,1065.819946,refl_f,inscrit,f,inscrite,yes,,elle,ouais elle s' était inscrite mais
+tufs,16KSLR110914,LR,2040.810059,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,ça genre euh elle a arrêtée elle s' est dit non euh troisième année je
+tufs,17DCBC110914,DC,1846.829956,refl_f,fait,f,faite,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' était faite une carte avec marqué
+tufs,17_FL_MA_SD_100225,FL,2571.939941,refl_f,mis,m,mis,yes,,elle,et et euh et elle s' est mis à apprendre le japo~ euh
+tufs,25_CC_SL_100226,CC,2733.330078,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est fait une entorse à la cheville
+tufs,30_JD_GD_100224,GD,4036.050049,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,ben ouais mais là elle s' est fait un peu exploiter
+tufs,31_SN_LL_100228,LL,959.979980,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,ouais ça elle m' a dit elle s' était déjà fait des amis enfin bon grâce
+tufs,Dasilva_Richard_confidences_sur_canape,R,1875.199951,refl_f,dit,m,dit,no,"se is not the direct object, or fait + infinitive, or cut off",elle,a sacrifié une période certaines choses pour toi parce qu' elle s' est dit voilà
+tufs,Kathy,A,275.809998,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,elle s' est fait soigner
+tufs,Martha,B,588.900024,refl_f,fait,m,fait,no,"se is not the direct object, or fait + infinitive, or cut off",elle,non elle s' est elle s' est fait blanchir un peu à la Britney
+cfpp,Louise_Liotard_F_85_et_Jeanne_Mallet_F_75_SO-1,Louise_Liotard,1547.430054,etre_f,remis,m,remis,yes,,elle,elle a été remis en état
+cfpp,Nicole_Noroy_F_53_14e-2,Nicole_Noroy,43.360001,etre_np,mort,m,mort,yes,,ma papa,est vrai quand je retourne un peu parce que ma ma bon papa est mort
+clapi,visite_guidee_manoir_guide2,GU2,2338.909912,etre_f,offert,m,offert,yes,,elle,elle a été offert au à joseph astor quand
+coralrom,fmedst03,MIC,639.940002,etre_np,fait,m,fait,no,subject is qui,cette fois-ci,glossaire euh toujours sérieux mais un peu d' humeur qui cette fois-ci est fait par Paul Denis
+crfp,PRI-PNO-1,L1,514.479980,etre_np,interdit,m,interdit,no,subject is tout,les années,donc l' internat c' est les années tout est interdit
+crfp,PRI-POI-1,L1,777.729980,etre_np,mis,m,mis,yes,,cette voiture,et donc cette voiture a été mis à l' épave
+crfp,PRO-GAP-1,L1,269.989990,etre_np,fait,m,fait,no,subject is un renouveau,la suite,il y a eu un renouveau qui par la suite a été fait mais seulement depuis la fin
+crfp,PUB-MON-1,L2,152.539993,etre_np,fait,m,fait,no,subject unclear,l' étiquette,sur l' étiquette est fait de l' union de cinquante-et-une
+decoda,20091112_RATP_SCD_0401.w+p,conseiller,96.800003,etre_np,ouvert,m,ouvert,yes,,la médiathèque,je vous appelle parce que j' aimerais savoir si la médiathèque est ouvert aux personnes hors RATP
+decoda,20091112_RATP_SCD_0464.w+p,conseiller,138.270004,etre_np,remis,m,remis,yes,,l' interconnexion,pas on espère que ça va reprendre parce que l' interconnexion est déjà remis en place
+decoda,20091112_RATP_SCD_1202.w+p,appelant,143.110001,etre_np,surpris,m,surpris,no,subject is les contrôleurs,cette ligne,il ne faut pas que les contrôleurs de cette ligne soient surpris si
+decoda,20091112_RATP_SCD_1341.w+p,conseiller_F02,30.530001,etre_f,reconduit,m,reconduit,yes,,elle,pas d' information madame pour savoir si la grève elle a été reconduit
+decoda,20091112_RATP_SCD_1347.w+p,appelant,26.680000,etre_np,ouvert,m,ouvert,yes,,l' agence,oui oui on a internet que l' agence est ouvert à ce jusqu' à dix
+decoda,20091112_RATP_SCD_1351.w+p,conseiller_F02,19.520000,etre_np,reconduit,m,reconduit,yes,,la grève,aucune information concernant la direction pour euh savoir si la grève est reconduit ou pas
+decoda,20101206_RATP_SCD_0057.w+p,conseiller_F,43.400002,etre_f,mis,m,mis,yes,,elle,si elle a été mis en circulation
+reunions-de-travail,Immobilier_CoDir_GIS_19mai08,L2,1015.849976,etre_f,mis,m,mis,yes,,elle,parce qu' elle était mis trop trop bas en fait
+tcof,Bask_par_06,L1,496.660004,etre_np,pris,m,pris,no,subject is tout,les annexes,voilà le souci c' est que les annexes tout est pris
+tcof,Reunion_jan_09,L5,869.820007,etre_np,acquis,m,acquis,no,subject is tout,la poésie,ça va très vite la poésie tout est déjà acquis
+tufs,05_SB_LZ_100223,SB,411.790009,etre_np,repris,m,repris,yes,,la nouvelle trilogie,la nouvelle trilogie qui est le début de l' histoire a été repris récemment dans une série télévisée
+tufs,11DCFBC110913,DCF,2949.919922,etre_f,mort,m,mort,yes,,elle,ah bon elle était mort d-~

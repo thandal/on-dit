@@ -41,7 +41,7 @@ Guidelines:
   - **In a table cell that covers several persons,** write the bare form with no pronoun (*voi* under "je, tu, il, on, ils"); tapping it lists each person's standard spelling. A cell for one person keeps its pronoun, so linking stays visible (*ils‿écrive*, *vous‿avez*). Don't make a cell orange when every person it covers has the same standard spelling (*a* for il, elle, on).
   - **Where linking makes an ending heard, it isn't silent:** *les petits‿enfants* keeps its s.
 - **Respell where the rules can't predict the sound:** long stems (*ils parte*, *ils vienne*), relaxed forms, irregular words and some numbers, below.
-- **Respell these relaxed forms:** *chui, chais, t'è, t'a, t'avè, y a, y avè, y en‿a, pasque*.
+- **Respell these relaxed forms:** *chui, chais, t'è, t'a, t'avè, y a, y avè, y aura, y en‿a, faut, pasque*. *faut* keeps its *il* after *que* and *qui*, with *ne*, and in *comme il faut*.
 - **Don't respell regular reductions.** These are covered by rules instead: dropping the light *e* (*j'veu*, *p'tit*) and *il/ils* sounding like "i" before a consonant.
 - **Use a fixed list of irregular words, always orange:** *fam (femme), messieu (monsieur), u (eu), pluss (plus, "more" as an amount), touss (tous), fiss (fils), segon (second), ièr (hier), ivèr (hiver), vil (ville), mil (mille), tranquil (tranquille)*.
 - **Respell numbers where they differ from the rules:** cinq and sept always (*sink, sète*), six, huit and dix when said alone (*siss, uite, diss*), soixante (*soissante*), vingt in 22–29 (*vinte-deux*), and the ordinals and -aine forms that spelling misleads (*deuzième, sizième, sètième, dizième, vintième, vintaine*). See chapter 12.

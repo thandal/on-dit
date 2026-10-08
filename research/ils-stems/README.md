@@ -76,6 +76,10 @@ On the full set the recognizer is too unreliable to say anything: it misses 40% 
 
 Model 2 misses real consonants as often as it prefers the short stem after ils. Where both models agree, it's 8% against 4%. So at most a few percent of plural verbs come out without their stem consonant. In the clips flagged, that mostly looks like fast-speech reduction before another consonant (*ils doivent les conserver* heard as "dwa le", *ils ne peuvent pas* as "pø pa"), not a different form. [`results/listen.csv`](results/listen.csv) lists the 45 clean plural clips where model 1 prefers the short stem, with file and time, for checking by ear.
 
+### Listening check
+
+[`listen_set.py`](listen_set.py) builds a blind listening test: those 45 clips, 40 clean plural clips where the model hears the long stem, 15 *il* clips (short only) and 15 consonant-said controls, shuffled under neutral ids. The page shows each clip's words with the subject and verb blanked, and asks which of the two pronunciations the listener hears. Which group each clip belongs to is only in [`results/listen_key.csv`](results/listen_key.csv), never on the page. It's published as a private page ([Long or short stem?](https://claude.ai/artifact/WZUgWTVZ2pDLEo74dH6gP3)), and answers save to the page's database.
+
 ## Literature
 
 No study I could find measures this in France. What exists:
@@ -94,6 +98,7 @@ python3 relatives.py data/cefc
 venv/bin/python score_audio.py data/out/tokens.csv data/out/scores.csv data/clips
 python3 summarize.py data/out/scores.csv results
 venv/bin/python cross_check.py data/out/scores.csv data/clips data/out/cross_check.csv
+venv/bin/python listen_set.py data/out/scores.csv data/clips data/listen   # needs ffmpeg
 ```
 
 `score_audio.py` and `cross_check.py` need the packages listed in [`../README.md`](../README.md). The first downloads about 3,500 short clips (into `data/clips`, reused on later runs) and takes about 20 minutes on a 4-core CPU.

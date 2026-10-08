@@ -1,0 +1,11 @@
+field,group,words,dont,dont_per_million,vs_corpus
+age,0-15,4873,0,0,0.0
+age,16-20,261518,11,42,0.41
+age,21-60,1385464,246,178,0.91
+age,61+,329640,108,328,1.38
+age,unknown,1264704,168,133,1.06
+all,all,3246199,533,164,1.0
+education,higher education,1742933,312,179,1.09
+education,primary,29213,4,137,0.52
+education,secondary,372704,53,142,0.59
+education,unknown,1101349,164,149,1.1

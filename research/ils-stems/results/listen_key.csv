@@ -1,0 +1,116 @@
+id,group,set,written,corpus,doc,speaker,lemma,verb,win_words,win_start,score,per
+c001,flagged,pl,long,tcof,Prov_pin_89,L2,rendre,rendent,ils se rendent pas compte,1413.1,-0.64,0.154
+c002,control,control,control,coralrom,ffammn19,DEL,porter,porte,euh ce qu' elle porte en elle,209.649994,14.63,0.286
+c003,plural,pl,long,tcof,groupe_musique,L2,pouvoir,peuvent,et après ils peuvent rester entre,503.480011,8.91,0.158
+c004,flagged,pl,long,crfp,PRO-LYO-1,L1,mettre,mettent,le temps où ils se mettent en groupes,444.040009,-1.58,0.222
+c005,flagged,pl,long,tufs,04GJCL110912,CL,mettre,mettent,des options pourquoi ils nous mettent des options,1238.150024,-1.78,0.286
+c006,plural,pl,long,tufs,12_JG_AI_100224,AI,devoir,doivent,oui mais ils doivent comprendre parce que,3138.52002,6.01,0.24
+c007,plural,pl,long,crfp,PRO-STR-1,L2,vouloir,veulent,peuvent décider comme ils le veulent,370.119995,15.64,0.263
+c008,flagged,pl,long,reunions-de-travail,CCI_ReunionInterne_15jan08,L3,vouloir,veulent,où frapper si ils veulent une indication,2090.389893,-12.9,0.208
+c009,plural,pl,long,tufs,15_LW_MG_100224,MG,apprendre,apprennent,ouais bien sûr ils apprennent l' anglais,1505.319946,12.06,0.292
+c010,flagged,pl,long,cfpp,Therese_Le_Vern_F_70_Valentine_Testanier_F_60_12e,Valentine_Testanier,venir,viennent,ils viennent pas de,3504.73999,-2.68,0.3
+c011,flagged,pl,short,tcof,Lic2013-14_Farrugia,L1,pouvoir,peut,mais bon ils peut être que,392.459991,-3.53,0.2
+c012,plural,pl,long,cfpp,Paul_Simo_20_Pierre_Marie-Simo_M_34_18e,Pierre-Marie_Simo,savoir,savent,police est-à-dire que ils savent très bien,4758.069824,16.39,0.24
+c013,flagged,pl,long,coralrom,fnatla02,LES,vouloir,veulent,ils veulent se marier,394.76001,-6.27,0.091
+c014,control,control,control,tufs,14HCMJ110913,MJ,expliquer,explique,voilà quand euh il nous explique tout comment,3306.26001,5.42,0.179
+c015,il,sg,short,tufs,fr04_2005_07_04,L2,prendre,prend,a un bus on prend le bus,641.369995,-16.99,0.294
+c016,flagged,pl,long,cfpp,Mathieu_Rosier_H_28_Elisa_Rysnik_F_26_12e,Elisa_Rysnik,sortir,sortent,à ça qu' ils s' en sortent,4282.27002,-6.06,0.25
+c017,control,control,control,crfp,PRI-MON-1,L2,garder,garde,on ne garde rien de,732.799988,12.82,0.214
+c018,plural,pl,long,cfpp,Nicole_Noroy_F_53_14e-1,Nicole_Noroy,sortir,sortent,vais attendre qu' ils sortent en poche,1289.77002,2.5,0.25
+c019,plural,pl,long,crfp,PUB-COR-1,L1,venir,viennent,sais pas si ils viennent dans le,894.309998,0.26,0.235
+c020,control,control,control,cfpp,Pauline_de_Bordes_F_67_7e,Pauline_de_Bordes,trouver,trouve,veulent qu' on trouve des solutions,5279.359863,6.53,0.2
+c021,plural,pl,long,tufs,20_FD_CB_100225,CB,pouvoir,peuvent,si ils peuvent m' embaucher,3815.340088,0.95,0.286
+c022,flagged,pl,long,tufs,fr03-1_2005_07_04,L1,devoir,doivent,je pense qu' ils doivent être rarement,803.51001,-0.99,0.227
+c023,plural,pl,long,tufs,01_OG_NH_100222,OG,sortir,sortent,les ils sortent les plus,1832.420044,2.83,0.154
+c024,flagged,pl,long,cfpp,Therese_Le_Vern_F_70_Valentine_Testanier_F_60_12e,Sonia_Branca-Rosoff,devoir,doivent,vous pensez qu' ils doivent les conserver,3131.429932,-9.99,0.087
+c025,plural,pl,long,cfpp,Paul_Simo_20_Pierre_Marie-Simo_M_34_18e,Lees_Simo,pouvoir,peuvent,ils peuvent parler comme,5125.850098,0.13,0.231
+c026,plural,pl,long,cfpp,Rosemonde_Ehrard_60_et_Patrick_Bernard_49_7e,Pierre_Bernard,pouvoir,peuvent,et en cinquième ils peuvent le faire,2163.379883,15.44,0.2
+c027,il,sg,short,cfpp,Isabelle_Legrand_F_32_Anne-Lies_Simo-Groen_F_30_RO,Sonia_Branca-Rosoff,sentir,sent,on se sent obligé de,902.76001,10.84,0.188
+c028,plural,pl,long,coralrom,ffammn17,FRE,vouloir,veulent,et qu' ils veulent plus payer,319.230011,8.32,0.286
+c029,plural,pl,long,coralrom,ffammn05,BRU,mettre,mettent,donc euh euh ils me mettent en observation,166.190002,4.31,0.231
+c030,flagged,pl,long,tufs,Dasilva_Richard_confidences_sur_canape,R,perdre,perdent,en plus quand ils perdent leurs poils,2739.22998,-5.44,0.3
+c031,plural,pl,long,cfpp,Mathilde_Lelong_F_85_Marie_Louise_Orsin_F_64_11e,Sonia_Branca-Rosoff,venir,viennent,cherchent plus quand ils viennent par exemple,545.330017,7.89,0.269
+c032,flagged,pl,long,cfpp,Laurence_Leblond_F_43_Stephanie_Zanotti_F_49_7e-2,Laurence_Leblond,permettre,permettent,ils nous permettent de faire,103.940002,-2.21,0.214
+c033,flagged,pl,short,tufs,04GJCL110912,CL,vouloir,veut,déjà ce qu' ils veut faire,1242.359985,-2.56,0.267
+c034,control,control,control,tcof,Deltaplane_tus,L2,monter,monte,on monte après avec,840.14,2.17,0.214
+c035,flagged,pl,long,tufs,13_AB_RL_100224,AB,vendre,vendent,ils le vendent tout simplement,2112.25,-8.71,0.278
+c036,control,control,control,cfpp,Therese_Le_Vern_F_70_Valentine_Testanier_F_60_12e,Valentine_Testanier,quitter,quitte,parce que si jamais il quitte ce restaurant,4968.430176,15.36,0.037
+c037,plural,pl,long,tcof,Mac_cle_sd,L1,tenir,tiennent,ça va s' ils tiennent compte de,21.91,8.64,0.294
+c038,il,sg,short,cfpp,Julie_Teixeira_F_18_Katia_Teixeira_F_15_11e,Katia_Teixeira,apprendre,apprend,entre amies qu' on apprend tout ça,3369.360107,-9.79,0.3
+c039,plural,pl,long,tcof,Rae_ash_sd,L2,connaître,connaissent,tout simples qu' ils connaissent,245.229996,9.05,0.267
+c040,flagged,pl,long,tcof,Apprendreaulycee,L2,dire,disent,ils nous disent euh l,252.01,-0.86,0.3
+c041,flagged,pl,long,reunions-de-travail,OF1_CA_3Dec07,L3,vouloir,veulent,ils veulent favoriser le,3297.370117,-15.63,0.286
+c042,flagged,pl,long,tcof,Educ_pot_08,L1,devoir,doivent,la communication qu' ils doivent faire,66.92,-0.19,0.25
+c043,plural,pl,long,cfpp,Therese_Le_Vern_F_70_Valentine_Testanier_F_60_12e,Valentine_Testanier,pouvoir,peuvent,c' est dangereux ils peuvent les avaler,4127.919922,7.87,0.3
+c044,plural,pl,long,tcof,Aqua_05,L1,mettre,mettent,ou alors ils le mettent en suspension,829.81,3.18,0.25
+c045,flagged,pl,short,tcof,Lang_duc_08,L2,dire,dit,ils croient ils dit ils croivent,55.419998,-12.89,0.294
+c046,il,sg,short,crfp,PRO-NAN-1,L2,choisir,choisit,donc on choisit une ville,829.630005,-3.79,0.059
+c047,flagged,pl,long,crfp,PUB-COR-1,L1,dire,disent,parce que justement euh ils se disent bon,901.150024,-10.33,0.25
+c048,flagged,pl,long,tufs,05_SB_LZ_100223,SB,pouvoir,peuvent,des choses qu' elles peuvent euh vivre,1483.319946,-2.04,0.188
+c049,il,sg,short,tcof,Prov_pin_89,L1,dire,dit,on le dit ça,167.45,-9.65,0.125
+c050,flagged,pl,long,tcof,Lang_duc_08,L1,dire,disent,comprends ce qu' ils disent,454.839996,-6.65,0.286
+c051,control,control,control,tufs,10_MD_EM_100224,MD,compter,compte,de savoir si on compte au fur et à mesure toutes,723.51001,7.58,0.3
+c052,il,sg,short,tufs,06OLMNY110912,OL,comprendre,comprend,n~ naturelles on les comprend,3554.280029,-25.01,0.056
+c053,il,sg,short,frenchoralnarrative,Sauvage_071-5_LE_BRAHMANE_ET_SA_FEMME,Sauvage,finir,finit,elle finit par trouver,315.420013,-15.62,0.286
+c054,plural,pl,long,tufs,03IAGJ110912,IA,savoir,savent,le travail commence ils savent tout de,2787.379883,18.44,0.13
+c055,flagged,pl,long,tcof,Aqua_05,L1,servir,servent,elles se servent des nitrates,345.4,-8.98,0.2
+c056,il,sg,short,crfp,PRI-AMI-1,L1,comprendre,comprend,on le comprend après,1133.97998,-40.64,0.2
+c057,plural,pl,long,crfp,PRO-PAU-1,L1,pouvoir,peuvent,les problèmes qu' ils peuvent avoir,303.299988,11.64,0.25
+c058,plural,pl,long,cfpp,Isabelle_Legrand_F_32_Anne-Lies_Simo-Groen_F_30_RO,Anne-Lies_Simo-Groen,devoir,doivent,et justement ils doivent s' entraîner,4135.649902,2.34,0.227
+c059,flagged,pl,long,crfp,PUB-TRO-1,L1,devoir,doivent,à mon sens ils doivent pas tellement,452.910004,-1.02,0.273
+c060,plural,pl,long,cfpp,Pauline_de_Bordes_F_67_7e,Pauline_de_Bordes,vouloir,veulent,mais ils ne veulent pas sauf,5282.089844,26.94,0.214
+c061,flagged,pl,long,coralrom,fnatpd02,ARL,connaître,connaissent,ils connaissent la restriction,360.459991,-0.3,0.2
+c062,flagged,pl,long,cfpp,Ozgur_Kilic_H_32_alii_3e-2,Ozgur_Kiliç,entendre,entendent,en bisbille en tout cas ils s' entendent bien,886.159973,-13.43,0.267
+c063,control,control,control,coralrom,fnatla02,LES,quitter,quitte,il quitte l' hôpital,295.220001,0.87,0.167
+c064,flagged,pl,long,crfp,PRI-AIX-1,L1,pouvoir,peuvent,c' est dangereux ils peuvent euh,253.25,-1.58,0.143
+c065,il,sg,short,clapi,reunion_organisation_dh,FRA,écrire,écrit,la première partie on écrit un sujet,4826.740234,-11.29,0.185
+c066,plural,pl,long,crfp,PRI-NAN-1,L1,vouloir,veulent,quand les filles elles veulent faire quelque chose,739.099976,15.11,0.167
+c067,plural,pl,long,cfpp,Paul_Simo_20_Pierre_Marie-Simo_M_34_18e,Pierre-Marie_Simo,savoir,savent,ils ne savent ils savent plus comment,4514.52002,22.62,0.1
+c068,flagged,pl,long,cfpp,Nicole_Noroy_F_53_14e-2,Nicole_Noroy,dire,disent,euh c' est-à-dire que ils nous le disent ils sont,672.02002,-12.51,0.25
+c069,plural,pl,long,crfp,PRI-BES-2,L2,vouloir,veulent,les prix qu' ils veulent,915.440002,27.41,0.091
+c070,plural,pl,long,cfpp,Julie_Teixeira_F_18_Katia_Teixeira_F_15_11e,Sonia_Branca-Rosoff,venir,viennent,alors les banlieusards ils viennent sur Paris,270.140015,10.03,0.214
+c071,control,control,control,tcof,Comb_bach_08,L1,demander,demande,c' est p-~ on vous demande pas euh,568.460022,3.36,0.267
+c072,control,control,control,tcof,Mili_89,L1,rentrer,rentre,avant avant qu' il rentre d' Algérie,1658.48,2.99,0.261
+c073,flagged,pl,long,tufs,14_CT_MB_100224,CT,dire,disent,ils disent plus merci,3169.030029,-11.21,0.25
+c074,flagged,pl,long,cfpp,Therese_Le_Vern_F_70_Valentine_Testanier_F_60_12e,Valentine_Testanier,venir,viennent,met les corbeaux ils viennent dans la,4250.47998,-4.4,0.3
+c075,plural,pl,long,tufs,fr04_2005_07_04,L2,pouvoir,peuvent,alors ils peuvent pas se,992.849976,5.28,0.231
+c076,plural,pl,long,crfp,PUB-NCY-2,L2,pouvoir,peuvent,des interactions qu' ils peuvent avoir entre,366.23999,4.63,0.25
+c077,flagged,pl,long,tufs,05LRGL110912,GL,sortir,sortent,pourquoi les autres ils s' en sortent pas,1283.040039,-10.35,0.19
+c078,flagged,pl,long,coralrom,ffamcv03,SOP,venir,viennent,et ils viennent de toute,294.970001,-2.01,0.25
+c079,flagged,pl,long,cfpp,Youcef_Zerari_H_29_Abdel_Hachim_H_25_SO,Abdel_Hachim,vouloir,veulent,la personne qu' ils veulent du joueur,7535.629883,-8.4,0.211
+c080,plural,pl,long,cfpp,Isabelle_Legrand_F_32_Anne-Lies_Simo-Groen_F_30_RO,Isabelle_Legrand,devoir,doivent,je pense qu' ils doivent effectivement ça,624.570007,8.62,0.28
+c081,plural,pl,long,tufs,17_FL_MA_SD_100225,FL,sortir,sortent,tu vois ils sortent pas trop,2603.709961,3.79,0.25
+c082,control,control,control,tufs,04_CA_NV_100223,CA,travailler,travaille,toute l' année on travaille ça montre,2580.840088,13.94,0.227
+c083,plural,pl,long,tufs,16_FB_EL_100224,EL,apprendre,apprennent,parce que les petits ils apprennent très vite,75.099998,3.27,0.214
+c084,flagged,pl,long,tufs,fr16_2005_07_05,L3,dire,disent,il faut qu' ils se disent qu' ils,1420.670044,-1.27,0.286
+c085,il,sg,short,coralrom,fnatpr03,ARN,boire,boit,et il boit quelques jours,310.309998,-7.69,0.143
+c086,flagged,pl,long,tufs,16_FB_EL_100224,EL,dire,disent,ils te disent des fois,3927.540039,-3.68,0.273
+c087,control,control,control,tufs,08LFBM110912,BM,regarder,regarde,et donc elle me regarde,3905.870117,7.79,0.267
+c088,plural,pl,long,tufs,14HCMJ110913,MJ,partir,partent,sauf que eux ils partent du principe,2141.48999,0.99,0.19
+c089,control,control,control,tufs,10_MD_EM_100224,MD,compter,compte,est-ce que on compte au fur et à mesure,691.890015,6.88,0.143
+c090,il,sg,short,tcof,Cartables_bar_08,L2,choisir,choisit,fait que euh on choisit telle ou telle personne,785.849976,-12.86,0.16
+c091,flagged,pl,long,cfpp,Therese_Le_Vern_F_70_Valentine_Testanier_F_60_12e,Valentine_Testanier,devoir,doivent,ils doivent s' intégrer,3145.120117,-8.89,0.154
+c092,il,sg,short,tufs,Liang,A,vivre,vit,l' environnement où on vit parce que,2927.610107,-4.01,0.182
+c093,plural,pl,long,cfpp,Nicole_Noroy_F_53_14e-1,Nicole_Noroy,dire,disent,moi quelquefois ils me disent hein,1274.390015,7.32,0.15
+c094,flagged,pl,long,reunions-de-travail,CCI_CoDir_19nov07_2,L1,vouloir,veulent,je pense qu' ils veulent savoir,3975.199951,-5.98,0.294
+c095,control,control,control,cfpp,Marie_Helene_Matera_F_67_Mo-1,Mireille_Masson,chercher,cherche,par exemple si on cherche un commerce,2364.780029,9.37,0.192
+c096,flagged,pl,long,reunions-de-travail,OF1_CA_3Dec07,L3,savoir,savent,mais ils le savent très bien,2536.060059,-10.98,0.267
+c097,plural,pl,long,crfp,PRI-VAL-2,L2,pouvoir,peuvent,et donc ils peuvent me coller,103.519997,4.26,0.125
+c098,plural,pl,long,tcof,Pom_tho_08,L2,prendre,prennent,donc ils prennent le matériel,202.050003,9.34,0.2
+c099,flagged,pl,long,crfp,PRI-BRI-2,L1,pouvoir,peuvent,ils ne peuvent pas conduire,504.429993,-2.71,0.133
+c100,flagged,pl,long,cfpp,Yvette_Audin_F_70_7e,Sonia_Branca-Rosoff,tenir,tiennent,ils tiennent pas particulièrement,5872.930176,-0.73,0.273
+c101,plural,pl,long,tufs,fr12_2005_07_06,L1,dire,disent,ils te disent grosso modo euh,837.450012,12.27,0.294
+c102,flagged,pl,long,tufs,13_AB_RL_100224,AB,vendre,vendent,déjà les pubs ils vendent nos informations,2042.689941,-6.04,0.148
+c103,plural,pl,long,coralrom,ffamdl17,MIR,devenir,deviennent,qu' est-ce qu' elles deviennent maintenant,244.270004,5.7,0.158
+c104,il,sg,short,tcof,Raei_leh_sd,L2,apprendre,apprend,et qu' on apprend par coeur,410.660004,-17.32,0.25
+c105,flagged,pl,long,tufs,fr03-3_2005_07_04,L1,prendre,prennent,sais pas si ils prennent en considération,1640.050049,-17.81,0.222
+c106,plural,pl,long,coralrom,fmedrp01,VOF,sentir,sentent,à ce stade elles ne sentent pratiquement rien,838.640015,4.09,0.179
+c107,plural,pl,long,cfpp,Nicole_Noroy_F_53_14e-1,Nicole_Noroy,partir,partent,et très souvent ils partent en banlieue,312.579987,10.37,0.174
+c108,flagged,pl,long,tufs,14HCMJ110913,HC,dire,disent,et ils leur disent euh deshabillez-vous,4791.529785,-0.79,0.2
+c109,plural,pl,long,tufs,Martha,B,savoir,savent,souvent ils ne savent pas écrire,825.5,0.25,0.278
+c110,flagged,pl,long,coralrom,ffamcv03,SOP,sentir,sentent,donc euh obligatoirement ils se sentent moins forts,250.970001,-1.04,0.125
+c111,flagged,pl,long,tufs,01BHGM110912,GM,vivre,vivent,poisson cru ils vivent plus longtemps,88.610001,-10.25,0.273
+c112,il,sg,short,frenchoralnarrative,Quere_063-2_1001_NUITS_2,Quere,servir,sert,demandé que l' on sert à discrétion,250.529999,-4.18,0.074
+c113,il,sg,short,tcof,dragon,L2,perdre,perd,on pense qu' on perd ses illusions,425.070007,-7.53,0.19
+c114,flagged,pl,long,reunions-de-travail,OF2_ServiceTechReg_14mars08,L1,venir,viennent,néanmoins cette année ils viennent de retravailler,161.330002,-3.74,0.065
+c115,control,control,control,tufs,04GJCL110912,GJ,penser,pense,alors on pense qu' à,2938.310059,3.02,0.25
