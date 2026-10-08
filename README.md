@@ -77,7 +77,7 @@ The grammar is a small static site in `grammaire/`, published as an artifact. Op
 5. Add its appendix section to `annexe.html` (`id="aN"`), with a link back to the chapter.
 6. Put any reference list worth looking up (verbs that take a preposition, irregular forms…) in `listes.html`, and link the section and the list to each other.
 
-Numbered section headings take an id of the form `s4-1`; they and any `h2` with an id appear in the contents rail under the current page.
+Section headings follow one pattern: a section about particular words gives the French first, then its meaning (`9.3 quand, si, avant de: when, if, before`); a section about a concept has a plain English heading in sentence case (`9.6 Reporting what people say`). Numbered section headings take an id of the form `s4-1`; they and any `h2` with an id appear in the contents rail under the current page.
 
 ### Authoring syntax
 
