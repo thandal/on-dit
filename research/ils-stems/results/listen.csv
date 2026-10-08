@@ -1,0 +1,46 @@
+corpus,doc,speaker,lemma,written,win_words,win_start,win_end,hyp_long,hyp_short,heard,per,score
+tufs,fr03-3_2005_07_04,L1,prendre,long,sais pas si ils prennent en considération,1640.050049,1641.300049,sɛ pa si il pʁɛn ɑ̃ kɔ̃sideʁasjɔ̃,sɛ pa si il pʁɑ̃ ɑ̃ kɔ̃sideʁasjɔ̃,i|l|sɛ|pa|sil|pʁɑ̃n|ɑ̃|kɔ̃sideʁasjɔ̃|sɛ|,0.222,-17.81
+reunions-de-travail,OF1_CA_3Dec07,L3,vouloir,long,ils veulent favoriser le,3297.370117,3298.149902,il vœl favoʁize lə,il vø favoʁize lə,mɛ|də|favoʁize|lə,0.286,-15.63
+cfpp,Ozgur_Kilic_H_32_alii_3e-2,Ozgur_Kiliç,entendre,long,en bisbille en tout cas ils s' entendent bien,886.159973,887.75,ɑ̃ bizbij ɑ̃ tu ka ɑ̃tɑ̃d sɑ̃tɑ̃d bjɛ̃,ɑ̃ bizbij ɑ̃ tu ka ɑ̃tɑ̃ sɑ̃tɑ̃d bjɛ̃,i|ɑ̃|bizbi|ɑ̃tu|az|il|sɑ̃tɑ̃d|bjɛ̃,0.267,-13.43
+reunions-de-travail,CCI_ReunionInterne_15jan08,L3,vouloir,long,où frapper si ils veulent une indication,2090.389893,2092.469971,u fʁape si il vœl yn ɛ̃dikasjɔ̃,u fʁape si il vø yn ɛ̃dikasjɔ̃,a|pu|fʁape|sil|vøm|ỹ|ɛ̃dikasjɔ̃,0.208,-12.9
+tcof,Lang_duc_08,L2,dire,short,ils croient ils dit ils croivent,55.419998,56.939999,il kʁwa il diz il kʁwav,il kʁwa il di il kʁwav,il|kʁwa|di|kʁwa,0.294,-12.89
+cfpp,Nicole_Noroy_F_53_14e-2,Nicole_Noroy,dire,long,euh c' est-à-dire que ils nous le disent ils sont,672.02002,674.570007,ø sɛtadiʁ kə il diz lə diz il sɔ̃,ø sɛtadiʁ kə il di lə diz il sɔ̃,sɛt|a|diʁ|kə|inili|diz|il|sɔ̃|m̃,0.25,-12.51
+tufs,14_CT_MB_100224,CT,dire,long,ils disent plus merci,3169.030029,3169.77002,il diz ply mɛʁsi,il di ply mɛʁsi,il|distumɛʁsi,0.25,-11.21
+reunions-de-travail,OF1_CA_3Dec07,L3,savoir,long,mais ils le savent très bien,2536.060059,2537.409912,mɛ il lə sav tʁɛ bjɛ̃,mɛ il lə sɛ tʁɛ bjɛ̃,bɔ̃|lə|sɛ|tʁɛ|bjɛ̃,0.267,-10.98
+tufs,05LRGL110912,GL,sortir,long,pourquoi les autres ils s' en sortent pas,1283.040039,1284.469971,puʁkwa le otʁ il sɑ̃ sɔʁt pa,puʁkwa le otʁ il sɑ̃ sɔʁ pa,puʁkwa|lez|otʁ|nə|sɑ̃|sɛʁpa|,0.19,-10.35
+crfp,PUB-COR-1,L1,dire,long,parce que justement euh ils se disent bon,901.150024,903.159973,paʁs kə ʒystmɑ̃ ø il diz diz bɔ̃,paʁs kə ʒystmɑ̃ ø il di diz bɔ̃,paʁskə|ʒystmɑ̃|il|sə|diz|vɔ|ba,0.25,-10.33
+tufs,01BHGM110912,GM,vivre,long,poisson cru ils vivent plus longtemps,88.610001,91.220001,pwasɔ̃ kʁy il viv ply lɔ̃tɑ̃,pwasɔ̃ kʁy il vi ply lɔ̃tɑ̃,|pwasɔ̃|kʁy|il|vi|ply|lwɔ̃tɛ̃|dəjɛ,0.273,-10.25
+cfpp,Therese_Le_Vern_F_70_Valentine_Testanier_F_60_12e,Sonia_Branca-Rosoff,devoir,long,vous pensez qu' ils doivent les conserver,3131.429932,3133.659912,vu pɑ̃se kil dwav le kɔ̃sɛʁve,vu pɑ̃se kil dwa le kɔ̃sɛʁve,k̃|vu|pɑ̃se|kil|dwa|le|kɔ̃sɛʁve,0.087,-9.99
+tcof,Aqua_05,L1,servir,long,elles se servent des nitrates,345.4,346.49,ɛl sə sɛʁv de nitʁat,ɛl sə sɛʁ de nitʁat,ɛl|sa|sɛʁdenitʁatɔ̃,0.2,-8.98
+cfpp,Therese_Le_Vern_F_70_Valentine_Testanier_F_60_12e,Valentine_Testanier,devoir,long,ils doivent s' intégrer,3145.120117,3146.070068,il dwav sɛ̃teɡʁe,il dwa sɛ̃teɡʁe,|il|dwa|sɛ̃teɡʁe|ɑf,0.154,-8.89
+tufs,13_AB_RL_100224,AB,vendre,long,ils le vendent tout simplement,2112.25,2113.310059,il lə vɑ̃d tu sɛ̃pləmɑ̃,il lə vɑ̃ tu sɛ̃pləmɑ̃,|il|vɑ̃|tusɛmləmɑ̃|e,0.278,-8.71
+cfpp,Youcef_Zerari_H_29_Abdel_Hachim_H_25_SO,Abdel_Hachim,vouloir,long,la personne qu' ils veulent du joueur,7535.629883,7537.379883,la pɛʁsɔn kil vœl dy ʒwœʁ,la pɛʁsɔn kil vø dy ʒwœʁ,|kə|la|pɛʁsɔn|ki|vɛ|dy|ʒwœʁ,0.211,-8.4
+tcof,Lang_duc_08,L1,dire,long,comprends ce qu' ils disent,454.839996,455.76001,kɔ̃pʁɑ̃ sə kil diz,kɔ̃pʁɑ̃ sə kil di,a|ty|kɔ̃pʁɑ̃|sə|ki|di,0.286,-6.65
+coralrom,fnatla02,LES,vouloir,long,ils veulent se marier,394.76001,395.850006,il vœl sə maʁje,il vø sə maʁje,|il|va|sə|maʁje,0.091,-6.27
+cfpp,Mathieu_Rosier_H_28_Elisa_Rysnik_F_26_12e,Elisa_Rysnik,sortir,long,à ça qu' ils s' en sortent,4282.27002,4283.160156,a sa kil sɑ̃ sɔʁt,a sa kil sɑ̃ sɔʁ,s|asa|kisɑ|sɔʁ,0.25,-6.06
+tufs,13_AB_RL_100224,AB,vendre,long,déjà les pubs ils vendent nos informations,2042.689941,2045.310059,deʒa le pœb il vɑ̃d no ɛ̃fɔʁmasjɔ̃,deʒa le pœb il vɑ̃ no ɛ̃fɔʁmasjɔ̃,ɛ|deʒa|lepyz|il|vɑ̃|noz|ɛ̃fɔʁmasjɔ̃,0.148,-6.04
+reunions-de-travail,CCI_CoDir_19nov07_2,L1,vouloir,long,je pense qu' ils veulent savoir,3975.199951,3976.699951,ʒə pɑ̃s kil vœl savwaʁ,ʒə pɑ̃s kil vø savwaʁ,ʒəpɑ̃|kl|vɔ|a|ʁvwaʁ,0.294,-5.98
+tufs,Dasilva_Richard_confidences_sur_canape,R,perdre,long,en plus quand ils perdent leurs poils,2739.22998,2740.639893,ɑ̃ ply kɑ̃ il pɛʁd lœʁ pwal,ɑ̃ ply kɑ̃ il pɛʁ lœʁ pwal,sɔʁ|ply|kɔ̃|tipɛʁ|lœʁ|pwal,0.3,-5.44
+cfpp,Therese_Le_Vern_F_70_Valentine_Testanier_F_60_12e,Valentine_Testanier,venir,long,met les corbeaux ils viennent dans la,4250.47998,4251.810059,mɛ le kɔʁbo il vjɛn dɑ̃ la,mɛ le kɔʁbo il vjɛ̃ dɑ̃ la,mɛ|le|kɔʁbo|ivɛ̃|də̃|la|kuʁ,0.3,-4.4
+reunions-de-travail,OF2_ServiceTechReg_14mars08,L1,venir,long,néanmoins cette année ils viennent de retravailler,161.330002,163.5,neɑ̃mwɛ̃ sɛt ane il vjɛn də ʁətʁavaje,neɑ̃mwɛ̃ sɛt ane il vjɛ̃ də ʁətʁavaje,|netɑ̃mwɛ̃|sɛt|ane|il|vjɛ̃|də|ətʁavaje,0.065,-3.74
+tufs,16_FB_EL_100224,EL,dire,long,ils te disent des fois,3927.540039,3928.370117,il tə diz de fwa,il tə di de fwa,e|kə|di|de|fwa,0.273,-3.68
+tcof,Lic2013-14_Farrugia,L1,pouvoir,short,mais bon ils peut être que,392.459991,394.679993,mɛ bɔ̃ il pøv ɛtʁ kə,mɛ bɔ̃ il pø ɛtʁ kə,mɛ|bɔ̃n|i|pøt|ɛtʁ|kə,0.2,-3.53
+crfp,PRI-BRI-2,L1,pouvoir,long,ils ne peuvent pas conduire,504.429993,505.399994,il nə pøv pa kɔ̃dyiʁ,il nə pø pa kɔ̃dyiʁ,ʁ|il|nə|pø|pa|kɔ̃dɥiʁ,0.133,-2.71
+cfpp,Therese_Le_Vern_F_70_Valentine_Testanier_F_60_12e,Valentine_Testanier,venir,long,ils viennent pas de,3504.73999,3505.540039,il vjɛn pa də,il vjɛ̃ pa də,il|vjɛa|nə|,0.3,-2.68
+tufs,04GJCL110912,CL,vouloir,short,déjà ce qu' ils veut faire,1242.359985,1243.619995,deʒa sə kil vœl fɛʁ,deʒa sə kil vø fɛʁ,aʁ|deʒa|sə|ki|vøl|fɛʁ,0.267,-2.56
+cfpp,Laurence_Leblond_F_43_Stephanie_Zanotti_F_49_7e-2,Laurence_Leblond,permettre,long,ils nous permettent de faire,103.940002,104.910004,il nu pɛʁmɛt də fɛʁ,il nu pɛʁmɛ də fɛʁ,|il|nu|pɛʁmɛ|də|fɛʁ|lə|t,0.214,-2.21
+tufs,05_SB_LZ_100223,SB,pouvoir,long,des choses qu' elles peuvent euh vivre,1483.319946,1484.719971,de ʃoz kɛl pøv ø vivʁ,de ʃoz kɛl pø ø vivʁ,de|ʃoz|kɛl|pøv|vivʁ|o|o,0.188,-2.04
+coralrom,ffamcv03,SOP,venir,long,et ils viennent de toute,294.970001,296.059998,e il vjɛn də tut,e il vjɛ̃ də tut,e|e|il|vjɛ̃|də|tut|la,0.25,-2.01
+tufs,04GJCL110912,CL,mettre,long,des options pourquoi ils nous mettent des options,1238.150024,1239.73999,de ɔpsjɔ̃ puʁkwa il nu mɛt de ɔpsjɔ̃,de ɔpsjɔ̃ puʁkwa il nu mɛ de ɔpsjɔ̃,edeɔɔ̃|puʁwa|ilɔ̃|mɛdeɔsjɔ̃,0.286,-1.78
+crfp,PRI-AIX-1,L1,pouvoir,long,c' est dangereux ils peuvent euh,253.25,254.740005,sɛ dɑ̃ʒʁø il pøv ø,sɛ dɑ̃ʒʁø il pø ø,|sɛ|dɑ̃ʒʁøz|il|pøv,0.143,-1.58
+crfp,PRO-LYO-1,L1,mettre,long,le temps où ils se mettent en groupes,444.040009,445.589996,lə tɑ̃ u il sə mɛt ɑ̃ ɡʁup,lə tɑ̃ u il sə mɛ ɑ̃ ɡʁup,|lə|tɑ̃||sə|mɛ|ɑ̃|ɡʁup|a,0.222,-1.58
+tufs,fr16_2005_07_05,L3,dire,long,il faut qu' ils se disent qu' ils,1420.670044,1421.589966,il fo kil sə diz kil,il fo kil sə di kil,|i|o|kil|sə|diiz,0.286,-1.27
+coralrom,ffamcv03,SOP,sentir,long,donc euh obligatoirement ils se sentent moins forts,250.970001,252.729996,dɔ̃k ø ɔbliɡatwaʁmɑ̃ il sə sɑ̃t mwɛ̃ fɔʁ,dɔ̃k ø ɔbliɡatwaʁmɑ̃ il sə sɑ̃ mwɛ̃ fɔʁ,ʁø|dɔ̃k|ɔbliɡatwaʁmɑ̃|il|sə|sɔ̃|mwɛ̃|fɔʁ,0.125,-1.04
+crfp,PUB-TRO-1,L1,devoir,long,à mon sens ils doivent pas tellement,452.910004,454.929993,a mɔ̃ sɑ̃s il dwav pa tɛlmɑ̃,a mɔ̃ sɑ̃s il dwa pa tɛlmɑ̃,|a|mɔ̃|sɑ̃s|il|vwa|ʁəpatɛl|i,0.273,-1.02
+tufs,fr03-1_2005_07_04,L1,devoir,long,je pense qu' ils doivent être rarement,803.51001,804.48999,ʒə pɑ̃s kil dwav ɛtʁ ʁaʁmɑ̃,ʒə pɑ̃s kil dwa ɛtʁ ʁaʁmɑ̃,|eʁ|pɑ̃s|kil|davɛ|tʁaʁmɑ̃|ʁ,0.227,-0.99
+tcof,Apprendreaulycee,L2,dire,long,ils nous disent euh l,252.01,253.83,il nu diz ø ɛl,il nu di ø ɛl,|il|nu|diz,0.3,-0.86
+tufs,14HCMJ110913,HC,dire,long,et ils leur disent euh deshabillez-vous,4791.529785,4793.060059,e il lœʁ diz ø dezabijevu,e il lœʁ di ø dezabijevu,|e|il|œʁdiz|dezabije|vutu,0.2,-0.79
+cfpp,Yvette_Audin_F_70_7e,Sonia_Branca-Rosoff,tenir,long,ils tiennent pas particulièrement,5872.930176,5873.830078,il tjɛn pa paʁtikyljɛʁmɑ̃,il tjɛ̃ pa paʁtikyljɛʁmɑ̃,ñz|apaʁtikyljɛʁmɑ̃|,0.273,-0.73
+tcof,Prov_pin_89,L2,rendre,long,ils se rendent pas compte,1413.1,1414.24,il sə ʁɑ̃d pa kɔ̃t,il sə ʁɑ̃ pa kɔ̃t,il|sə|ʁɑ̃|pa|kɔ̃t|di,0.154,-0.64
+coralrom,fnatpd02,ARL,connaître,long,ils connaissent la restriction,360.459991,361.679993,il kɔnɛs la ʁɛstʁiksjɔ̃,il kɔnɛ la ʁɛstʁiksjɔ̃,|il|kɔnɛ|sa|ʁɛstʁiksjɔ̃|de|ʁ,0.2,-0.3
+tcof,Educ_pot_08,L1,devoir,long,la communication qu' ils doivent faire,66.92,68.3,la kɔmynikasjɔ̃ kil dwav fɛʁ,la kɔmynikasjɔ̃ kil dwa fɛʁ,|də|la|kɔmynikasjɔ̃|kil|pv|fɛʁ|e,0.25,-0.19

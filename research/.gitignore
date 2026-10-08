@@ -1,0 +1,7 @@
+# downloaded corpora, audio clips, model caches, virtualenvs
+data/
+*/data/
+clips/
+*/clips/
+venv/
+__pycache__/

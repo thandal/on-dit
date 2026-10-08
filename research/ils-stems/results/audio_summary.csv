@@ -1,0 +1,17 @@
+set,max_per,clips,short_fits_better,pct,median_score
+"ils, written long",1.0,1945,1018,52.3,-0.54
+"ils, written long",0.4,460,96,20.9,5.539999999999999
+"ils, written long",0.3,239,42,17.6,6.84
+"ils, written long",0.2,92,14,15.2,8.125
+"ils, written short",1.0,16,15,93.8,-5.0600000000000005
+"ils, written short",0.4,3,3,100.0,-3.53
+"ils, written short",0.3,3,3,100.0,-3.53
+"ils, written short",0.2,1,1,100.0,-3.53
+il (short only),1.0,925,877,94.8,-7.9
+il (short only),0.4,291,275,94.5,-10.1
+il (short only),0.3,170,163,95.9,-10.875
+il (short only),0.2,81,79,97.5,-11.24
+control (consonant said),1.0,429,173,40.3,2.2
+control (consonant said),0.4,139,14,10.1,6.98
+control (consonant said),0.3,92,5,5.4,7.83
+control (consonant said),0.2,38,1,2.6,7.795

@@ -93,6 +93,10 @@ Section headings follow one pattern: a section about particular words gives the 
 
 In the HTML source, an orange word is written as `{spoken|written}`, for example `ils {parte|partent}`. When one token stands for several persons, list each person's spelling in the written part, separated by ` · `: `{par|je pars · tu pars · il part · on part}`. `on-dit.js` turns each one into a `<ruby>` annotation. Write ties (`‿`) directly. Put French examples (anything a reader would say) in `<span class="fr">`, wherever they appear, including inside an English table cell; French used only as a label (a row header like *je, tu*, or a term like *passé composé*) stays plain. Put standard-spelling-only text in `<span class="wf">`, and spoken table cells in `<td class="say">`. Give written-only table columns `class="w"`. Mark a common mistake with `<span class="no">` (shown in red after a ✗, never taught as a form to use). Put detail that would interrupt the main line in `<details class="more"><summary>More: …</summary>…</details>`. Put a section's exercises in `<details class="practice"><summary>Practice: …</summary>…</details>` at the end of the section, and each answer at the end of its item in `<span class="a">…</span>`.
 
+## Research
+
+`research/` checks the grammar's claims against recorded speech, one folder per question, each with its scripts, method and results. See [`research/README.md`](research/README.md).
+
 ## Chapter plan and status
 
 | # | Chapter | Status |
