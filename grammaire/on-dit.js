@@ -5,21 +5,22 @@
 
 /* Reading order. To add a chapter, add its page here and to the outline in index.html. */
 var PAGES = [
-  {id:'intro',  href:'index.html',          label:'Introduction'},
-  {id:'ch1',    href:'01-sons.html',        label:'1. Sounds and spelling'},
-  {id:'ch2',    href:'02-noms.html',        label:'2. Nouns, articles, gender and number'},
-  {id:'ch3',    href:'03-pronoms.html',     label:'3. Pronouns'},
-  {id:'ch4',    href:'04-present.html',     label:'4. Verbs: the present'},
-  {id:'ch5',    href:'05-passe-futur.html', label:'5. Verbs: past, future and possibility'},
-  {id:'ch6',    href:'06-negation.html',    label:'6. Negation'},
-  {id:'ch7',    href:'07-questions.html',   label:'7. Questions'},
-  {id:'ch8',    href:'08-forme.html',       label:'8. Sentence shape'},
-  {id:'ch9',    href:'09-relier.html',      label:'9. Joining ideas'},
-  {id:'ch10',   href:'10-mots.html',        label:'10. Discourse words'},
-  {id:'ch11',   href:'11-quotidien.html',   label:'11. Everyday frames'},
-  {id:'ch12',   href:'12-lieu-temps.html',  label:'12. Place and time'},
-  {id:'annexe', href:'annexe.html',         label:'Appendix: coming from written French'},
-  {id:'listes', href:'listes.html',         label:'Appendix: useful lists'}
+  {id:'intro',  href:'index.html',           label:'Introduction'},
+  {id:'ch1',    href:'01-sons.html',         label:'1. Sounds and spelling'},
+  {id:'ch2',    href:'02-noms.html',         label:'2. Nouns, articles, gender and number'},
+  {id:'ch3',    href:'03-pronoms.html',      label:'3. Pronouns'},
+  {id:'ch4',    href:'04-present.html',      label:'4. Verbs: the present'},
+  {id:'ch5',    href:'05-passe-futur.html',  label:'5. Verbs: the everyday past and future'},
+  {id:'ch6',    href:'06-autres-temps.html', label:'6. Verbs: other common forms'},
+  {id:'ch7',    href:'07-negation.html',     label:'7. Negation'},
+  {id:'ch8',    href:'08-questions.html',    label:'8. Questions'},
+  {id:'ch9',    href:'09-forme.html',        label:'9. Sentence shape'},
+  {id:'ch10',   href:'10-relier.html',       label:'10. Joining ideas'},
+  {id:'ch11',   href:'11-mots.html',         label:'11. Discourse words'},
+  {id:'ch12',   href:'12-quotidien.html',    label:'12. Everyday frames'},
+  {id:'ch13',   href:'13-lieu-temps.html',   label:'13. Place and time'},
+  {id:'annexe', href:'annexe.html',          label:'Appendix: coming from written French'},
+  {id:'listes', href:'listes.html',          label:'Appendix: useful lists'}
 ];
 
 (function(){

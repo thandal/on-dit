@@ -36,7 +36,7 @@ Guidelines:
 - **Respell these relaxed forms:** *chui, chais, t'es, t'as, t'avais, y a, y avait, y en a, pasque*.
 - **Don't respell regular reductions.** These are covered by rules instead: dropping the light *e* (*j'veux*, *p'tit*) and *il/ils* sounding like "i" before a consonant.
 - **Use a fixed list of irregular words, always starred:** *fam\* (femme), messieu\* (monsieur), u\* (eu), pluss\* (plus, "more" as an amount), touss\* (tous), fiss\* (fils), segon\* (second), ièr\* (hier), ivèr\* (hiver), vil\* (ville), mil\* (mille), tranquil\* (tranquille)*.
-- **Star numbers where they differ from the rules:** cinq and sept always (*sink\*, sète\**), six, huit and dix when said alone (*siss\*, uite\*, diss\**), soixante (*soissante\**), vingt in 22–29 (*vinte-deux\**), and the ordinals and -aine forms that spelling misleads (*deuzième\*, sizième\*, sètième\*, dizième\*, vintième\*, vintaine\**). See chapter 11.
+- **Star numbers where they differ from the rules:** cinq and sept always (*sink\*, sète\**), six, huit and dix when said alone (*siss\*, uite\*, diss\**), soixante (*soissante\**), vingt in 22–29 (*vinte-deux\**), and the ordinals and -aine forms that spelling misleads (*deuzième\*, sizième\*, sètième\*, dizième\*, vintième\*, vintaine\**). See chapter 12.
 - **Show linking with the tie only, never by respelling.** Mark all obligatory liaisons plus a few very common optional ones.
 
 ## Presentation
@@ -50,14 +50,15 @@ The grammar is a small static site in `grammaire/`, published as an artifact. Op
 | `02-noms.html` | Chapter 2: Nouns, articles, gender and number |
 | `03-pronoms.html` | Chapter 3: Pronouns |
 | `04-present.html` | Chapter 4: Verbs: the present |
-| `05-passe-futur.html` | Chapter 5: Verbs: past, future and possibility |
-| `06-negation.html` | Chapter 6: Negation |
-| `07-questions.html` | Chapter 7: Questions |
-| `08-forme.html` | Chapter 8: Sentence shape |
-| `09-relier.html` | Chapter 9: Joining ideas |
-| `10-mots.html` | Chapter 10: Discourse words |
-| `11-quotidien.html` | Chapter 11: Everyday frames |
-| `12-lieu-temps.html` | Chapter 12: Place and time |
+| `05-passe-futur.html` | Chapter 5: Verbs: the everyday past and future |
+| `06-autres-temps.html` | Chapter 6: Verbs: other common forms |
+| `07-negation.html` | Chapter 7: Negation |
+| `08-questions.html` | Chapter 8: Questions |
+| `09-forme.html` | Chapter 9: Sentence shape |
+| `10-relier.html` | Chapter 10: Joining ideas |
+| `11-mots.html` | Chapter 11: Discourse words |
+| `12-quotidien.html` | Chapter 12: Everyday frames |
+| `13-lieu-temps.html` | Chapter 13: Place and time |
 | `annexe.html` | Appendix: Coming from written French (A0, A1, A2…) |
 | `listes.html` | Appendix: useful lists: être verbs, reflexive verbs, verbs + à / de / infinitive, subjunctive triggers, participles, adjectives before the noun, avoir and faire expressions, everyday informal words |
 | `on-dit.css` | Shared styles |
@@ -92,19 +93,20 @@ In the HTML source, a starred word is written as `{spoken*|written}`, for exampl
 | 2 | Nouns, articles, gender and number | Drafted |
 | 3 | Pronouns | Drafted |
 | 4 | Verbs: the present | Drafted |
-| 5 | Verbs: past, future and possibility | Drafted |
-| 6 | Negation | Drafted |
-| 7 | Questions | Drafted |
-| 8 | Sentence shape | Drafted |
-| 9 | Joining ideas | Drafted |
-| 10 | Discourse words | Drafted |
-| 11 | Everyday frames | Drafted |
-| 12 | Place and time | Drafted |
+| 5 | Verbs: the everyday past and future | Drafted |
+| 6 | Verbs: other common forms | Drafted |
+| 7 | Negation | Drafted |
+| 8 | Questions | Drafted |
+| 9 | Sentence shape | Drafted |
+| 10 | Joining ideas | Drafted |
+| 11 | Discourse words | Drafted |
+| 12 | Everyday frames | Drafted |
+| 13 | Place and time | Drafted |
 
-Chapters 2 to 12 have practice and an appendix section. Chapter 1 has neither yet.
+Chapters 2 to 13 have practice and an appendix section. Chapter 1 has neither yet.
 
 ## Next steps
 
 - Chapter 1: cover linking and relaxed forms in more depth, and add practice.
 - Chapter 1: decide how to handle -er words read as èr (hiver, super) and -ied (pied). For now they're starred or avoided.
-- Review chapters 6 to 12, and sections 2.9, 3.8–3.11 and 4.6, against the notation rules and with a native speaker.
+- Review chapters 6 to 13, and sections 2.9, 3.8–3.11 and 4.6, against the notation rules and with a native speaker.
