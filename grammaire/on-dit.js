@@ -1,6 +1,7 @@
 /* On dit: shared script for every page.
    1. Builds the contents rail and the previous/next links from PAGES.
-   2. Turns {spoken*|written} tokens into <ruby> annotations, and exercise answers into tap-to-show chips.
+   2. Turns {spoken|written} tokens into orange <ruby> words: tapping one opens a pop-up with its standard spelling(s);
+      the Written forms switch shows them above every orange word. Turns exercise answers into tap-to-show chips.
    3. Runs the Written forms switch (remembered per browser). */
 
 /* Reading order. To add a chapter, add its page here and to the outline in index.html. */
@@ -81,19 +82,10 @@ var PAGES = [
     r.className = 'r';
     r.tabIndex = 0;
     r.setAttribute('role','button');
-    var clean = say.replace(/\*/g,'');
-    r.setAttribute('aria-label', clean + ', written: ' + written);
-    r.title = 'Written: ' + written;
+    r.setAttribute('aria-label', say + ', written: ' + written);
+    r.setAttribute('data-w', written);
     var sw = document.createElement('span');
-    var parts = say.split('*');
-    parts.forEach(function(p, i){
-      sw.appendChild(document.createTextNode(p));
-      if (i < parts.length - 1){
-        var st = document.createElement('span');
-        st.className = 'star'; st.textContent = '*'; st.setAttribute('aria-hidden','true');
-        sw.appendChild(st);
-      }
-    });
+    sw.textContent = say;
     r.appendChild(sw);
     var rt = document.createElement('rt');
     rt.textContent = written;
@@ -125,15 +117,41 @@ var PAGES = [
     a.setAttribute('role','button');
     a.setAttribute('aria-expanded','false');
   });
+  // One pop-up for the whole page, attached to <body> so scrolling tables can't clip it.
+  // A token standing for several persons ("je pars · tu pars · il part") gets one line per form.
+  var pop = document.createElement('div');
+  pop.className = 'pop'; pop.hidden = true; pop.setAttribute('role','status');
+  document.body.appendChild(pop);
+  var current = null;
+  function hidePop(){
+    if (current) current.classList.remove('open');
+    current = null; pop.hidden = true;
+  }
+  function showPop(r){
+    if (current === r){ hidePop(); return; }
+    hidePop();
+    current = r; r.classList.add('open');
+    pop.textContent = '';
+    r.getAttribute('data-w').split(' · ').forEach(function(w){
+      var line = document.createElement('span'); line.textContent = w; pop.appendChild(line);
+    });
+    pop.hidden = false;
+    var b = r.getBoundingClientRect(), maxLeft = document.documentElement.clientWidth - pop.offsetWidth - 8;
+    pop.style.left = (window.scrollX + Math.max(8, Math.min(b.left, maxLeft))) + 'px';
+    pop.style.top = (window.scrollY + b.bottom + 6) + 'px';
+  }
   function toggle(el){
-    if (el.matches('ruby.r')) el.classList.toggle('open');
+    if (el.matches('ruby.r')) showPop(el);
     else el.setAttribute('aria-expanded', el.getAttribute('aria-expanded') === 'true' ? 'false' : 'true');
   }
-  // A starred word inside an open answer toggles itself, not the answer.
+  // An orange word inside an open answer toggles itself, not the answer.
   function target(e){ return e.target.closest && e.target.closest('ruby.r, .a'); }
-  root.addEventListener('click', function(e){
-    var t = target(e); if (t) toggle(t);
+  document.addEventListener('click', function(e){
+    var t = root.contains(e.target) ? target(e) : null;
+    if (t) toggle(t); else if (!pop.contains(e.target)) hidePop();
   });
+  document.addEventListener('keydown', function(e){ if (e.key === 'Escape') hidePop(); });
+  window.addEventListener('resize', hidePop);
   root.addEventListener('keydown', function(e){
     if ((e.key === 'Enter' || e.key === ' ') && e.target.matches && e.target.matches('ruby.r, .a')){
       e.preventDefault(); toggle(e.target);
@@ -145,7 +163,6 @@ var PAGES = [
     document.body.classList.toggle('show-written', on);
     btn.setAttribute('aria-checked', on ? 'true' : 'false');
     state.textContent = on ? 'shown' : 'hidden';
-    if (!on) document.querySelectorAll('ruby.r.open').forEach(function(r){ r.classList.remove('open'); });
   }
   var saved = false;
   try { saved = localStorage.getItem('ondit-written') === '1'; } catch(e){}

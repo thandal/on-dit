@@ -8,7 +8,7 @@
   --line:#dde1e8;
   --accent:#2b56b0;      /* spoken French */
   --accent-soft:#e7edf9;
-  --star:#b8620f;        /* respelling mark */
+  --star:#b8620f;        /* orange: written differently from standard spelling */
   --no:#b42318;          /* a common mistake */
   --written:#7b5a86;     /* standard spelling */
   --written-soft:#f3edf5;
@@ -82,11 +82,14 @@ strong{font-weight:700}
 /* spoken French */
 .fr{font-family:var(--say);color:var(--accent);font-weight:700;font-size:.97em}
 .fr .gloss{font-weight:400}
-ruby.r{ruby-position:over;cursor:pointer;border-radius:3px}
-ruby.r:hover{background:var(--written-soft)}
+ruby.r{ruby-position:over;ruby-align:start;cursor:pointer;border-radius:3px}
+ruby.r:hover,ruby.r.open{background:var(--written-soft)}
 ruby.r rt{font-family:var(--body);font-style:italic;font-weight:400;color:var(--written);font-size:0;opacity:0;transition:opacity .15s;user-select:none}
-body.show-written ruby.r rt, ruby.r.open rt{font-size:.62em;opacity:1}
-.star{color:var(--star);font-weight:700;margin-left:.05em}
+body.show-written ruby.r rt{font-size:.62em;opacity:1}
+.pop{position:absolute;z-index:20;max-width:calc(100vw - 16px);padding:.35rem .7rem;background:var(--surface);border:1px solid var(--line);border-radius:6px;box-shadow:0 6px 18px rgb(0 0 0 / .14);font-family:var(--body);font-style:italic;color:var(--written);font-size:var(--s0);line-height:1.45}
+.pop[hidden]{display:none}
+.pop span{display:block;white-space:nowrap}
+ruby.r>span{color:var(--star);text-decoration:underline dotted;text-decoration-thickness:.09em;text-underline-offset:.22em}
 .tie{color:var(--muted)}
 .wf{font-style:italic;color:var(--written)}
 .no{font-family:var(--say);font-weight:700;font-size:.97em;color:var(--no)}
@@ -143,6 +146,7 @@ details.practice > p{margin-top:.8rem;font-size:var(--s0)}
 .marks{display:grid;grid-template-columns:repeat(auto-fit,minmax(12rem,1fr));gap:.8rem;margin:1rem 0}
 .mark{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:.8rem 1rem}
 .mark .sym{font-family:var(--say);font-size:var(--s3);line-height:1;color:var(--star);font-weight:700}
+.mark .sym.o{text-decoration:underline dotted;text-decoration-thickness:.07em;text-underline-offset:.18em}
 .mark .sym.t{color:var(--muted)}
 .mark .sym.p{color:var(--accent)}
 .mark p{margin:.4rem 0 0;font-size:var(--s0)}

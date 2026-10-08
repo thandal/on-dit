@@ -22,21 +22,29 @@ Few existing resources focus only on spoken French. The closest is Rodney Ball's
 
 ## Notation: the spoken spelling
 
-The goal is that every example can be read aloud correctly using a one-page set of reading rules (chapter 1), without needing to know French grammar.
+The goal is that every example can be read aloud correctly using a one-page set of reading rules (chapter 1), without needing to know French grammar, and that each spoken form has exactly one spelling.
 
 | Mark | Meaning | Example |
 | --- | --- | --- |
-| no mark | The word is read by the rules, and that is also its standard spelling. | `je pars`, `vous parlez`, `qu'on parte` |
-| `*` | Respelled with ordinary French letters because the rules can't predict its sound. | `ils parte*` (*ils partent*), `chui*` (*je suis*) |
+| no mark | The word is read by the rules, and that is also its standard spelling. | `je parle`, `vous parlez`, `qu'on parte` |
+| orange | Written differently from its standard spelling: either forms that sound the same are written once, or the rules can't predict the standard spelling's sound. Tap it to see the standard spelling. | `tu parle` (*tu parles*), `il peu` (*il peut*), `ils parte` (*ils partent*), `chui` (*je suis*) |
 | `‿` | Linked: the first word's final consonant is said at the start of the next (liaison). | `ils‿ont`, `on‿y va`, `vous‿avez` |
+
+Orange is shown with a dotted underline too, so the mark survives without colour.
 
 Guidelines:
 
-- **Respell as little as possible.** Keep standard spelling wherever the reading rules work. This keeps stars rare, so each one signals a place where writing misleads (mostly *ils* verb endings and relaxed forms).
-- **Respell these relaxed forms:** *chui, chais, t'es, t'as, t'avais, y a, y avait, y en a, pasque*.
-- **Don't respell regular reductions.** These are covered by rules instead: dropping the light *e* (*j'veux*, *p'tit*) and *il/ils* sounding like "i" before a consonant.
-- **Use a fixed list of irregular words, always starred:** *fam\* (femme), messieu\* (monsieur), u\* (eu), pluss\* (plus, "more" as an amount), touss\* (tous), fiss\* (fils), segon\* (second), ièr\* (hier), ivèr\* (hiver), vil\* (ville), mil\* (mille), tranquil\* (tranquille)*.
-- **Star numbers where they differ from the rules:** cinq and sept always (*sink\*, sète\**), six, huit and dix when said alone (*siss\*, uite\*, diss\**), soixante (*soissante\**), vingt in 22–29 (*vinte-deux\**), and the ordinals and -aine forms that spelling misleads (*deuzième\*, sizième\*, sètième\*, dizième\*, vintième\*, vintaine\**). See chapter 12.
+- **One spelling per sound.** When standard spelling writes one sound several ways, write it one way:
+  - **Verbs:** spell the shared form as the reading rules say it, with no silent letters: *peu* (peux, peut), *veu*, *fè* (fais, fait), *sè*, *di*, *par* (pars, part), *pren*, *è* (es, est: *c'è*, *il è*), *parlè* (parlais, parlait, parlaient), *voudrè* (voudrais, voudrait). Where one standard spelling already reads right with no silent letters, use it for every person: *parle* (parle, parles, parlent), *fini*, *va*, *a*.
+  - **Nouns and adjectives:** use the singular, and the masculine when the feminine sounds the same: *les livre*, *elle est fatigué*, *des voiture rouge*.
+  - **Pronouns and articles keep their spelling:** *ils parle*, *les livre*.
+  - **In a table cell that covers several persons,** write the bare form with no pronoun (*voi* under "je, tu, il, on, ils"); tapping it lists each person's standard spelling. A cell for one person keeps its pronoun, so linking stays visible (*ils‿écrive*, *vous‿avez*). Don't make a cell orange when every person it covers has the same standard spelling (*a* for il, elle, on).
+  - **Where linking makes an ending heard, it isn't silent:** *les petits‿enfants* keeps its s.
+- **Respell where the rules can't predict the sound:** long stems (*ils parte*, *ils vienne*), relaxed forms, irregular words and some numbers, below.
+- **Respell these relaxed forms:** *chui, chais, t'è, t'a, t'avè, y a, y avè, y en‿a, pasque*.
+- **Don't respell regular reductions.** These are covered by rules instead: dropping the light *e* (*j'veu*, *p'tit*) and *il/ils* sounding like "i" before a consonant.
+- **Use a fixed list of irregular words, always orange:** *fam (femme), messieu (monsieur), u (eu), pluss (plus, "more" as an amount), touss (tous), fiss (fils), segon (second), ièr (hier), ivèr (hiver), vil (ville), mil (mille), tranquil (tranquille)*.
+- **Respell numbers where they differ from the rules:** cinq and sept always (*sink, sète*), six, huit and dix when said alone (*siss, uite, diss*), soixante (*soissante*), vingt in 22–29 (*vinte-deux*), and the ordinals and -aine forms that spelling misleads (*deuzième, sizième, sètième, dizième, vintième, vintaine*). See chapter 12.
 - **Show linking with the tie only, never by respelling.** Mark all obligatory liaisons plus a few very common optional ones.
 
 ## Presentation
@@ -62,10 +70,10 @@ The grammar is a small static site in `grammaire/`, published as an artifact. Op
 | `annexe.html` | Appendix: Coming from written French (A0, A1, A2…) |
 | `listes.html` | Appendix: useful lists: être verbs, reflexive verbs, verbs + à / de / infinitive, subjunctive triggers, participles, adjectives before the noun, avoir and faire expressions, everyday informal words |
 | `on-dit.css` | Shared styles |
-| `on-dit.js` | Shared script: contents and previous/next links, starred words, Written forms switch |
+| `on-dit.js` | Shared script: contents and previous/next links, orange words, Written forms switch |
 
-- **Written forms switch** (top bar): shows or hides the standard spelling. When on, it appears above every starred word, and the "Written" columns appear in tables. The setting is remembered per browser, so it carries from page to page.
-- **Tap to reveal:** tapping a single starred word shows just its written form.
+- **Written forms switch** (top bar): shows or hides the standard spelling. When on, it appears above every orange word, and the "Written" columns appear in tables. The setting is remembered per browser, so it carries from page to page.
+- **Tap to reveal:** tapping an orange word shows its standard spelling. In a table cell that covers several persons, it shows each person's spelling.
 - **Key examples** have three lines: what's said, what's written (shown only with the switch on), and what it means plus which form it is.
 - **Practice** sits at the end of the section it drills, folded away so the chapter reads straight through. Each item has an "answer" chip; tapping it shows the answer in place.
 - **Each chapter** ends with a link to its appendix section. Each appendix section links back to its chapter.
@@ -83,7 +91,7 @@ Section headings follow one pattern: a section about particular words gives the 
 
 ### Authoring syntax
 
-In the HTML source, a starred word is written as `{spoken*|written}`, for example `ils {parte*|partent}`. `on-dit.js` turns each one into a `<ruby>` annotation. Write ties (`‿`) directly. Put French examples (anything a reader would say) in `<span class="fr">`, wherever they appear, including inside an English table cell; French used only as a label (a row header like *je, tu*, or a term like *passé composé*) stays plain. Put standard-spelling-only text in `<span class="wf">`, and spoken table cells in `<td class="say">`. Give written-only table columns `class="w"`. Mark a common mistake with `<span class="no">` (shown in red after a ✗, never taught as a form to use). Put detail that would interrupt the main line in `<details class="more"><summary>More: …</summary>…</details>`. Put a section's exercises in `<details class="practice"><summary>Practice: …</summary>…</details>` at the end of the section, and each answer at the end of its item in `<span class="a">…</span>`.
+In the HTML source, an orange word is written as `{spoken|written}`, for example `ils {parte|partent}`. When one token stands for several persons, list each person's spelling in the written part, separated by ` · `: `{par|je pars · tu pars · il part · on part}`. `on-dit.js` turns each one into a `<ruby>` annotation. Write ties (`‿`) directly. Put French examples (anything a reader would say) in `<span class="fr">`, wherever they appear, including inside an English table cell; French used only as a label (a row header like *je, tu*, or a term like *passé composé*) stays plain. Put standard-spelling-only text in `<span class="wf">`, and spoken table cells in `<td class="say">`. Give written-only table columns `class="w"`. Mark a common mistake with `<span class="no">` (shown in red after a ✗, never taught as a form to use). Put detail that would interrupt the main line in `<details class="more"><summary>More: …</summary>…</details>`. Put a section's exercises in `<details class="practice"><summary>Practice: …</summary>…</details>` at the end of the section, and each answer at the end of its item in `<span class="a">…</span>`.
 
 ## Chapter plan and status
 
@@ -108,5 +116,6 @@ Chapters 2 to 13 have practice and an appendix section. Chapter 1 has neither ye
 ## Next steps
 
 - Chapter 1: cover linking and relaxed forms in more depth, and add practice.
-- Chapter 1: decide how to handle -er words read as èr (hiver, super) and -ied (pied). For now they're starred or avoided.
+- Chapter 1: decide how to handle -er words read as èr (hiver, super) and -ied (pied). For now they're respelled or avoided.
+- Convert the rest of the grammar to one spelling per sound. Chapter 4 is converted; chapters 1–3 and 5–13, the lists and the appendix still use standard spelling for verb forms, plurals and feminines.
 - Review chapters 6 to 13, and sections 2.9, 3.8–3.11 and 4.6, against the notation rules and with a native speaker.
