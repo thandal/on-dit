@@ -35,8 +35,8 @@ Guidelines:
 - **Respell as little as possible.** Keep standard spelling wherever the reading rules work. This keeps stars rare, so each one signals a place where writing misleads (mostly *ils* verb endings and relaxed forms).
 - **Respell these relaxed forms:** *chui, chais, t'es, t'as, t'avais, y a, y avait, y en a, pasque*.
 - **Don't respell regular reductions.** These are covered by rules instead: dropping the light *e* (*j'veux*, *p'tit*) and *il/ils* sounding like "i" before a consonant.
-- **Use a fixed list of irregular words, always starred:** *fam\* (femme), messieu\* (monsieur), u\* (eu), pluss\* (plus, "more"), touss\* (tous), fiss\* (fils), segon\* (second), ièr\* (hier), ivèr\* (hiver), vil\* (ville), mil\* (mille), tranquil\* (tranquille)*.
-- **Star numbers where they differ from the rules:** cinq and sept always (*sink\*, sète\**), six, huit and dix when said alone (*siss\*, uite\*, diss\**), soixante (*soissante\**), and vingt in 22–29 (*vinte-deux\**). See chapter 11.
+- **Use a fixed list of irregular words, always starred:** *fam\* (femme), messieu\* (monsieur), u\* (eu), pluss\* (plus, "more" as an amount), touss\* (tous), fiss\* (fils), segon\* (second), ièr\* (hier), ivèr\* (hiver), vil\* (ville), mil\* (mille), tranquil\* (tranquille)*.
+- **Star numbers where they differ from the rules:** cinq and sept always (*sink\*, sète\**), six, huit and dix when said alone (*siss\*, uite\*, diss\**), soixante (*soissante\**), vingt in 22–29 (*vinte-deux\**), and the ordinals and -aine forms that spelling misleads (*deuzième\*, sizième\*, sètième\*, dizième\*, vintième\*, vintaine\**). See chapter 11.
 - **Show linking with the tie only, never by respelling.** Mark all obligatory liaisons plus a few very common optional ones.
 
 ## Presentation
@@ -57,8 +57,9 @@ The grammar is a small static site in `grammaire/`, published as an artifact. Op
 | `09-relier.html` | Chapter 9: Joining ideas |
 | `10-mots.html` | Chapter 10: Discourse words |
 | `11-quotidien.html` | Chapter 11: Everyday frames |
+| `12-lieu-temps.html` | Chapter 12: Place and time |
 | `annexe.html` | Appendix: Coming from written French (A0, A1, A2…) |
-| `listes.html` | Appendix: useful lists: être verbs, reflexive verbs, verbs + à / de / infinitive, subjunctive triggers, participles, adjectives before the noun, avoir and faire expressions |
+| `listes.html` | Appendix: useful lists: être verbs, reflexive verbs, verbs + à / de / infinitive, subjunctive triggers, participles, adjectives before the noun, avoir and faire expressions, everyday informal words |
 | `on-dit.css` | Shared styles |
 | `on-dit.js` | Shared script: contents and previous/next links, starred words, Written forms switch |
 
@@ -98,11 +99,12 @@ In the HTML source, a starred word is written as `{spoken*|written}`, for exampl
 | 9 | Joining ideas | Drafted |
 | 10 | Discourse words | Drafted |
 | 11 | Everyday frames | Drafted |
+| 12 | Place and time | Drafted |
 
-Chapters 2 to 11 have practice and an appendix section. Chapter 1 has neither yet.
+Chapters 2 to 12 have practice and an appendix section. Chapter 1 has neither yet.
 
 ## Next steps
 
 - Chapter 1: cover linking and relaxed forms in more depth, and add practice.
 - Chapter 1: decide how to handle -er words read as èr (hiver, super) and -ied (pied). For now they're starred or avoided.
-- Review chapters 6 to 11 against the notation rules and with a native speaker.
+- Review chapters 6 to 12, and sections 2.9, 3.8–3.11 and 4.6, against the notation rules and with a native speaker.
