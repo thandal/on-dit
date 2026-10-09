@@ -19,7 +19,7 @@ Few existing resources focus only on spoken French. The closest is Rodney Ball's
 3. **One default per job.** Teach the most common way to say something. List other forms briefly, for recognition only.
 4. **Speech has its own structures.** Relaxed forms, linking, dislocation, clefts and discourse words are core grammar here.
 5. **Recognize more than you produce.**
-6. **Check claims against research.** Where speech differs from what courses usually teach, follow published studies of conversation recorded in France, and name them in the grammar. The evidence for each choice is in `research/`.
+6. **Based on the research.** Where speech differs from what courses usually teach, follow published studies of conversation recorded in France, and name them in the grammar. The evidence for each choice is in `research/`.
 
 ## Notation: the spoken spelling
 
