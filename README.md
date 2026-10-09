@@ -69,7 +69,7 @@ The grammar is a small static site in `grammaire/`, published as an artifact. Op
 | `12-quotidien.html` | Chapter 12: Everyday frames |
 | `13-lieu-temps.html` | Chapter 13: Place and time |
 | `annexe.html` | Appendix: Coming from written French (A0, A1, A2…) |
-| `listes.html` | Appendix: useful lists: être verbs, reflexive verbs, verbs + à / de / infinitive, subjunctive triggers, participles, adjectives before the noun, avoir and faire expressions, everyday informal words |
+| `listes.html` | Appendix: useful lists: être verbs, reflexive verbs, verbs + à / de / infinitive, subjunctive triggers, participles, adjectives before the noun, avoir and faire expressions, verbs with an empty il, everyday informal words |
 | `on-dit.css` | Shared styles |
 | `on-dit.js` | Shared script: contents and previous/next links, orange words, Written forms switch |
 
