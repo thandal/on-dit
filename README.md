@@ -19,6 +19,7 @@ Few existing resources focus only on spoken French. The closest is Rodney Ball's
 3. **One default per job.** Teach the most common way to say something. List other forms briefly, for recognition only.
 4. **Speech has its own structures.** Relaxed forms, linking, dislocation, clefts and discourse words are core grammar here.
 5. **Recognize more than you produce.**
+6. **Check claims against research.** Where speech differs from what courses usually teach, follow published studies of conversation recorded in France, and name them in the grammar. The evidence for each choice is in `research/`.
 
 ## Notation: the spoken spelling
 
@@ -91,7 +92,7 @@ Section headings follow one pattern: a section about particular words gives the 
 
 ### Authoring syntax
 
-In the HTML source, an orange word is written as `{spoken|written}`, for example `ils {parte|partent}`. When one token stands for several persons, list each person's spelling in the written part, separated by ` · `: `{par|je pars · tu pars · il part · on part}`. `on-dit.js` turns each one into a `<ruby>` annotation. Write ties (`‿`) directly. Put French examples (anything a reader would say) in `<span class="fr">`, wherever they appear, including inside an English table cell; French used only as a label (a row header like *je, tu*, or a term like *passé composé*) stays plain. Put standard-spelling-only text in `<span class="wf">`, and spoken table cells in `<td class="say">`. Give written-only table columns `class="w"`. Mark a common mistake with `<span class="no">` (shown in red after a ✗, never taught as a form to use). Put detail that would interrupt the main line in `<details class="more"><summary>More: …</summary>…</details>`. Put a section's exercises in `<details class="practice"><summary>Practice: …</summary>…</details>` at the end of the section, and each answer at the end of its item in `<span class="a">…</span>`.
+In the HTML source, an orange word is written as `{spoken|written}`, for example `ils {parte|partent}`. When one token stands for several persons, list each person's spelling in the written part, separated by ` · `: `{par|je pars · tu pars · il part · on part}`. `on-dit.js` turns each one into a `<ruby>` annotation. Write ties (`‿`) directly. Put French examples (anything a reader would say) in `<span class="fr">`, wherever they appear, including inside an English table cell; French used only as a label (a row header like *je, tu*, or a term like *passé composé*) stays plain. Put standard-spelling-only text in `<span class="wf">`, and spoken table cells in `<td class="say">`. Give written-only table columns `class="w"`. End a passage that departs from the usual textbook account with `<p class="src">Research: …</p>`, linking the studies it rests on. Mark a common mistake with `<span class="no">` (shown in red after a ✗, never taught as a form to use). Put detail that would interrupt the main line in `<details class="more"><summary>More: …</summary>…</details>`. Put a section's exercises in `<details class="practice"><summary>Practice: …</summary>…</details>` at the end of the section, and each answer at the end of its item in `<span class="a">…</span>`.
 
 ## Research
 

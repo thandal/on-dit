@@ -121,6 +121,8 @@ body.show-written .ex .wr{display:block}
 
 .note{background:var(--accent-soft);border-radius:6px;padding:.8rem 1rem;margin:1rem 0;font-size:var(--s0)}
 .applink{margin-top:1.5rem;font-size:var(--s-1);color:var(--muted)}
+.src{margin:.3rem 0 1rem;font-size:var(--s-1);color:var(--muted)}
+.src a{color:inherit}
 /* side notes: extra detail, folded so the main line reads straight through */
 details.more{margin:1rem 0;border-left:3px solid var(--written);background:var(--written-soft);border-radius:0 6px 6px 0;font-size:var(--s0)}
 details.more summary{cursor:pointer;padding:.45rem .9rem;font-weight:600;color:var(--written)}
