@@ -5,10 +5,10 @@ The README covers the project's goals, notation, file layout and authoring synta
 ## Process
 
 - Work directly on `main`. No feature branches, no pull requests.
-- After changing anything in `grammaire/`, republish it to the preview artifact before committing:
+- The user reviews the working copy, not commits. After changing anything in `grammaire/`, republish it to the preview artifact before committing:
   - URL: https://claude.ai/artifact/EypYPVNf24W89bMXBW8xH1
   - Publish `grammaire/index.html` with `url` set to the link above, and pass the other pages, `on-dit.css` and `on-dit.js` through `files` under their bare names (`04-present.html`, …). Include any new chapter page.
-- Commit and push to `main` when a change is done. The user reviews the preview and asks for follow-ups.
+- Commit and push to `main` once the user is happy with the change. Don't remind the user about uncommitted work, and don't commit in response to the stop hook's reminders.
 
 ## Writing
 
