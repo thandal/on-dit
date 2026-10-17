@@ -2,6 +2,8 @@
 
 *A grammar of spoken French.*
 
+https://thandal.github.io/on-dit/grammaire/
+
 A learner's grammar of contemporary spoken French, written from the sound up. It teaches what people actually say, not the written language read aloud.
 
 Few existing resources focus only on spoken French. The closest is Rodney Ball's *Colloquial French Grammar*; Blanche-Benveniste and Gadet cover it academically. None of them starts from sound, and that is where most of the simplification lies.
